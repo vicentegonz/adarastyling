@@ -26,7 +26,7 @@
 24 -> Lonny
 25 -> Darryl
 26 -> Teammates
-27 -> Michael-Dwight
+27 -> Michael and Dwight
 28 -> Warehouse worker
 29 -> Madge
 30 -> Worker
@@ -36,7 +36,7 @@
 34 -> Guy at bar
 35 -> Other Guy at Bar
 36 -> Guy At Bar
-37 -> Pam-Jim
+37 -> Pam and Jim
 38 -> Employee
 39 -> Chili's Employee
 40 -> Waitress
@@ -58,7 +58,7 @@
 56 -> Crowd
 57 -> song
 58 -> Song
-59 -> Dwight-Michael
+59 -> Dwight and Michael
 60 -> Sherri
 61 -> Creed
 62 -> Devon
@@ -73,24 +73,24 @@
 71 -> Alyssa
 72 -> Christian
 73 -> Hostess
-74 -> Michael-Christian
+74 -> Michael and Christian
 75 -> Sadiq (IT guy)
 76 -> Mark
 77 -> Improv Teacher
 78 -> Mary-Beth
 79 -> Girl acting Pregnant
 80 -> Actress
-81 -> Michael-Jim
-82 -> Kevin - Oscar
+81 -> Michael and Jim
+82 -> Kevin & Oscar
 83 -> All
 84 -> Liquor Store Clerk
 85 -> JIm
 86 -> Bob Vance
-87 -> Phyllis- Meredith- Michael- Kevin
+87 -> Phyllis, Meredith, Michael, Kevin
 88 -> Captain Jack
 89 -> Brenda
-90 -> Darryl-Katy
-91 -> Jim-Pam
+90 -> Darryl and Katy
+91 -> Jim and Pam
 92 -> Billy Merchant
 93 -> Doctor
 94 -> Lab Tech
@@ -98,7 +98,7 @@
 96 -> Hooter's Girls
 97 -> Phylis
 98 -> Gil
-99 -> Pam-others
+99 -> Pam and others
 100 -> Ed
 101 -> Todd
 102 -> Jim's voicemail
@@ -107,7 +107,7 @@
 105 -> Men
 106 -> Group chant
 107 -> All the Men
-108 -> Dwight-Roy
+108 -> Dwight and Roy
 109 -> Delivery man
 110 -> Craig
 111 -> Josh
@@ -116,7 +116,7 @@
 114 -> Receptionist
 115 -> Overhead
 116 -> Speaker
-117 -> Jim-Dwight
+117 -> Jim and Dwight
 118 -> Melissa
 119 -> Sasha
 120 -> Abby
@@ -149,10 +149,10 @@
 147 -> Jerome Bettis
 148 -> Ted
 149 -> Waiter
-150 -> Jim- Josh--Dwight
+150 -> Jim, Josh, and Dwight
 151 -> Evan
 152 -> Alan
-153 -> Ryan-others
+153 -> Ryan and others
 154 -> Hannah
 155 -> Announcer
 156 -> Pretzel guy
@@ -163,21 +163,21 @@
 161 -> Kelly's Mom
 162 -> Kelly's Father
 163 -> Young Man
-164 -> Andy-Jim
+164 -> Andy and Jim
 165 -> Mrs. Kapoor
 166 -> Mr. Kapoor
 167 -> M ichael
 168 -> Dwight:
 169 -> Martin
 170 -> Male voice
-171 -> Michael - Dwight
-172 -> Andy - Michael
+171 -> Michael & Dwight
+172 -> Andy & Michael
 173 -> Chef
 174 -> Woman at bar
 175 -> Cindy
 176 -> Second Cindy
 177 -> Other waitress
-178 -> Andy-Michael
+178 -> Andy and Michael
 179 -> Both
 180 -> Someone
 181 -> Harvey
@@ -250,12 +250,12 @@
 248 -> Co-Worker 2
 249 -> Co-Worker 3
 250 -> Mr. Figaro
-251 -> Oscar-Stanley
+251 -> Oscar and Stanley
 252 -> Ad guy 1
 253 -> Ad guy 2
 254 -> David Wallace
-255 -> Andy- Creed- Kevin- Kelly- Darryl
-256 -> Andy- Creed- Kevin- Kelly
+255 -> Andy, Creed, Kevin, Kelly, Darryl
+256 -> Andy, Creed, Kevin, Kelly
 257 -> Michael's Ad
 258 -> Rolando
 259 -> Ben
@@ -286,11 +286,11 @@
 284 -> Tall Girl #2
 285 -> Girl in 2nd club
 286 -> Cleaning lady
-287 -> Michael-Darryl
+287 -> Michael and Darryl
 288 -> Phil Maguire
 289 -> Phil
 290 -> Justin
-291 -> Angela-Dwight
+291 -> Angela and Dwight
 292 -> Maguire
 293 -> Woman on mic
 294 -> Graphics guy
@@ -308,7 +308,7 @@
 306 -> Receptionitis15 [screen name]
 307 -> JIM9334
 308 -> Receptionitis15
-309 -> Michael - Holly
+309 -> Michael & Holly
 310 -> Dight
 311 -> Kendall
 312 -> Michael [on phone]
@@ -316,17 +316,17 @@
 314 -> Man on phone
 315 -> Hank [the security guard]
 316 -> Guy in audience
-317 -> Michael-Holly
-318 -> Michael- Holly--Darryl
+317 -> Michael and Holly
+318 -> Michael, Holly, and Darryl
 319 -> Tom
 320 -> Pete
-321 -> Holly - Darryl
-322 -> Holly - Michael
+321 -> Holly & Darryl
+322 -> Holly & Michael
 323 -> Mother
 324 -> Alex
 325 -> Customer
-326 -> Kevin - Andy
-327 -> Stanley - Phyllis
+326 -> Kevin & Andy
+327 -> Stanley & Phyllis
 328 -> Stewardess
 329 -> Beth
 330 -> Concierge
@@ -351,7 +351,7 @@
 349 -> Prince Granddaughter
 350 -> Prince Grandmother
 351 -> Prince Son
-352 -> Phyllis-Creed
+352 -> Phyllis and Creed
 353 -> Lawyer
 354 -> CPR trainer
 355 -> CPR Trainer
@@ -363,7 +363,7 @@
 361 -> Julia
 362 -> A.J.
 363 -> Phone Salesman
-364 -> Jim- Pam- Michael-Dwight
+364 -> Jim, Pam, Michael and Dwight
 365 -> Blood Drive Worker
 366 -> Blood Girl
 367 -> Lynn
@@ -374,16 +374,16 @@
 372 -> Stephanie
 373 -> Employees
 374 -> Isaac
-375 -> Angela-Kelly
+375 -> Angela and Kelly
 376 -> Supervisor
 377 -> Michal
 378 -> Nana
 379 -> Chares
 380 -> Old Woman
 381 -> Erin
-382 -> Dwight-Erin
-383 -> Dwight-Andy
-384 -> Michael- Pam - Ryan
+382 -> Dwight and Erin
+383 -> Dwight and Andy
+384 -> Michael, Pam & Ryan
 385 -> Secretary
 386 -> Automated phone voice
 387 -> Mr. Schofield
@@ -398,12 +398,12 @@
 396 -> AJ
 397 -> Man from Buffalo
 398 -> Woman from Buffalo
-399 -> Dwight - Andy
+399 -> Dwight & Andy
 400 -> Female Intern
 401 -> Female intern
 402 -> Maurie
-403 -> Dwight- Jim - Pam
-404 -> Jim - Pam
+403 -> Dwight, Jim & Pam
+404 -> Jim & Pam
 405 -> Megan
 406 -> Gwenneth
 407 -> Front Desk Clerk
@@ -418,10 +418,10 @@
 416 -> Pam's mom
 417 -> Tom Halpert
 418 -> Pete Halpert
-419 -> Tom-Pete
+419 -> Tom and Pete
 420 -> Pam's dad
 421 -> Grotti
-422 -> Andy-Dwight
+422 -> Andy and Dwight
 423 -> Credit card rep
 424 -> Rep
 425 -> Various
@@ -447,15 +447,15 @@
 445 -> Lefevre
 446 -> Zion
 447 -> Deliveryman
-448 -> Michael-Erin
+448 -> Michael and Erin
 449 -> Daryl
 450 -> Office
-451 -> Kelly-Erin
+451 -> Kelly and Erin
 452 -> Matt
 453 -> Computron
 454 -> Fake Stanley
 455 -> Gabe
-456 -> Andy - Erin
+456 -> Andy & Erin
 457 -> Christian Slater
 458 -> Jo Bennett
 459 -> Jo
@@ -463,7 +463,7 @@
 461 -> Teddy Wallace
 462 -> Mrs. Wallace
 463 -> Teddy
-464 -> Dwight- Jim-Michael
+464 -> Dwight, Jim and Michael
 465 -> Policeman
 466 -> Hospital employee
 467 -> (Pam's mom) Heleen
@@ -476,7 +476,7 @@
 474 -> Warehouse guy 2
 475 -> Reid
 476 -> Night cleaning crew
-477 -> Meredith- Creed- Oscar-Matt
+477 -> Meredith, Creed, Oscar and Matt
 478 -> Miichael
 479 -> Julie
 480 -> Hide
@@ -488,13 +488,13 @@
 486 -> Hayworth's waiter
 487 -> Oscar's voice from the computer
 488 -> Donna
-489 -> Michael-Donna
+489 -> Michael and Donna
 490 -> Mihael
 491 -> Old lady
 492 -> Glen
 493 -> Gym Instructor
 494 -> Gym instructor
-495 -> Dwight-Angela
+495 -> Dwight and Angela
 496 -> Shane
 497 -> Reporter
 498 -> Realtor
@@ -514,7 +514,7 @@
 512 -> Carrol
 513 -> Danny
 514 -> Steve
-515 -> Darryl-Andy
+515 -> Darryl and Andy
 516 -> Church congregation
 517 -> Pastor
 518 -> Female church member
@@ -527,16 +527,16 @@
 525 -> Carla
 526 -> Jim's Dad
 527 -> Bus driver
-528 -> Michael-Andy
+528 -> Michael and Andy
 529 -> Another guy
 530 -> Radio
 531 -> Cece
 532 -> TV
 533 -> Meridith
 534 -> Robotic Voice
-535 -> Ryan-Michael
+535 -> Ryan and Michael
 536 -> Phyliss
-537 -> Dwight - Nate
+537 -> Dwight & Nate
 538 -> Passer-by
 539 -> Bass Player
 540 -> Justine
@@ -549,17 +549,17 @@
 547 -> DJ
 548 -> David Brent
 549 -> Older guy
-550 -> Phyllis- Stanley- Dwight
+550 -> Phyllis, Stanley, Dwight
 551 -> Younger Guy
 552 -> Older Woman
 553 -> Professor Powell
-554 -> Ryan-Kelly
+554 -> Ryan and Kelly
 555 -> Helen
 556 -> Attendant
 557 -> Hot Dog Guy
 558 -> Cell Phone Sales Person
 559 -> Boom Box
-560 -> Andy-Erin
+560 -> Andy and Erin
 561 -> Holly's Mom
 562 -> Holly's Dad
 563 -> Deangelo
@@ -569,7 +569,7 @@
 567 -> DeAngelo
 568 -> Audience
 569 -> Together
-570 -> Erin-Kelly
+570 -> Erin and Kelly
 571 -> abe
 572 -> Rory
 573 -> DeAgnelo
@@ -577,7 +577,7 @@
 575 -> Dwight [on phone]
 576 -> Mose [on phone]
 577 -> All but Oscar
-578 -> Darryl-Angela
+578 -> Darryl and Angela
 579 -> Fred Henry
 580 -> Fred
 581 -> Warren Buffett
@@ -590,19 +590,19 @@
 588 -> Finger Lakes Guy
 589 -> Pam as fourth-biggest client
 590 -> Pam as ninth-biggest client
-591 -> Darryl - Oscar
+591 -> Darryl & Oscar
 592 -> Tattoo Artist
 593 -> Female Applicant
 594 -> Male Applicant 1
 595 -> Male Applicant 2
 596 -> Gideon
 597 -> Bruce
-598 -> Dwight- Erin- Jim - Kevin
+598 -> Dwight, Erin, Jim & Kevin
 599 -> Walter
 600 -> Ellen
 601 -> Walter Jr
-602 -> Andy - Walter
-603 -> Walter - Walter Jr
+602 -> Andy & Walter
+603 -> Walter & Walter Jr
 604 -> Erin's Cell Phone
 605 -> Bert
 606 -> Gabe/Kelly/Toby
@@ -614,10 +614,10 @@
 612 -> Offscreen
 613 -> Curtis
 614 -> Drummer
-615 -> Pam-Kelly
+615 -> Pam and Kelly
 616 -> Old Man
-617 -> Andy-Darryl
-618 -> Darryl-Kevin
+617 -> Andy and Darryl
+618 -> Darryl and Kevin
 619 -> Park Ranger
 620 -> Chelsea
 621 -> Archivist
@@ -633,12 +633,12 @@
 631 -> Oscar's friend
 632 -> Stu
 633 -> Stonewall Host
-634 -> Meredith - Kelly
+634 -> Meredith & Kelly
 635 -> Einsteins
 636 -> Senator Lipton
 637 -> Ernesto
 638 -> Officer Foley
-639 -> Andy- Darryl - Officer Foley
+639 -> Andy, Darryl & Officer Foley
 640 -> Saleswoman
 641 -> Emergency Operator
 642 -> Paramedic
@@ -656,13 +656,13 @@
 654 -> Irene
 655 -> Alonzo
 656 -> Glenn
-657 -> Erin-Irene
-658 -> Kevin - Meredith
+657 -> Erin and Irene
+658 -> Kevin & Meredith
 659 -> Lauren
 660 -> Party guests
 661 -> Magician
 662 -> Ravi
-663 -> Robert - Creed
+663 -> Robert & Creed
 664 -> Wrangler
 665 -> Senator
 666 -> Vet
@@ -673,14 +673,14 @@
 671 -> Rafe
 672 -> Fake Jim
 673 -> Voicemail
-674 -> Nellie-Pam
+674 -> Nellie and Pam
 675 -> Group: Dunder Mifflin!
-Andy: Andy Bernard presents: Summer Softball Epic Fails! [Kevin swings bat on screen- fart noise follows] Fail. [repeats] Fail
+Andy: Andy Bernard presents: Summer Softball Epic Fails! [Kevin swings bat on screen, fart noise follows] Fail. [repeats] Fail
 676 -> [repeats]
 Andy: Fail
-677 -> [Clark-Pete are shown on screen]
-Video Andy: Hey- I'm Pete- puberty is such a drag- man. And I'm Clark! I like to eat toilet paper. [Clark-Pete wave at camera] We fail! [Video shows memorial of Jerry
-678 -> Phyllis- Kevin - Stanley
+677 -> [Clark and Pete are shown on screen]
+Video Andy: Hey, I'm Pete, puberty is such a drag, man. And I'm Clark! I like to eat toilet paper. [Clark and Pete wave at camera] We fail! [Video shows memorial of Jerry
+678 -> Phyllis, Kevin & Stanley
 679 -> HCT
 680 -> HCT Member #1
 681 -> HCT Member #2
@@ -728,7 +728,7 @@ Video Andy: Hey- I'm Pete- puberty is such a drag- man. And I'm Clark! I like to
 723 -> Melvina
 724 -> Wolf
 725 -> Sensei Ira
-726 -> Pam - Dwight
+726 -> Pam & Dwight
 727 -> Frank
 728 -> Party Announcer
 729 -> Party Guest
@@ -756,7 +756,7 @@ Video Andy: Hey- I'm Pete- puberty is such a drag- man. And I'm Clark! I like to
 751 -> Ruger Sister 1
 752 -> Salesmen
 753 -> Ruger Sister 2
-754 -> Angela - Oscar
+754 -> Angela & Oscar
 755 -> Reporter #1
 756 -> Reporter #2
 757 -> Mrs. Davis
@@ -764,14 +764,14 @@ Video Andy: Hey- I'm Pete- puberty is such a drag- man. And I'm Clark! I like to
 759 -> Carla Fern
 760 -> Director
 761 -> Producer
-762 -> Bob Vance- Vance Refrigeration
+762 -> Bob Vance, Vance Refrigeration
 763 -> Production Assistant
 764 -> Sensei
 765 -> Philip
 766 -> Check-in guy
 767 -> Casey
 768 -> Mark McGrath
-769 -> Jim - Dwight
+769 -> Jim & Dwight
 770 -> Camera Crew
 771 -> People in line
 772 -> Santigold
