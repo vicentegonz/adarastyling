@@ -1,0 +1,797 @@
+name,most_common_stop_word
+Michael,you
+Jim,you
+Pam,to
+Dwight,the
+Jan,you
+Michel,down
+Todd Packer,to
+Phyllis,you
+Stanley,to
+Oscar,you
+Angela,you
+Kevin,the
+Ryan,you
+Man,you
+Roy,you
+Documentary Crew Member,you
+Mr. Brown,you
+Toby,to
+Kelly,you
+Meredith,the
+Travel Agent,know
+Man on Phone,the
+Everybody,to
+Lonny,you
+Darryl,you
+Teammates,Does not use stop words
+Michael-Dwight,on
+Warehouse worker,done
+Madge,you
+Worker,sorry
+Packer,you
+Warehouse Worker,back
+Katy,you
+Guy at bar,it
+Other Guy at Bar,just
+Guy At Bar,a
+Pam-Jim,it
+Employee,to
+Chili's Employee,not
+Waitress,dont
+Manager,on
+Kevin's computer,Does not use stop words
+Warehouse Guy,you
+Warehouse guy,her
+Warehouse guys,Does not use stop words
+Video,the
+Man in Video,a
+Actor,a
+Redheaded Actress,Does not use stop words
+Mr. O'Malley,Does not use stop words
+Albiny,to
+Pam's Mom,is
+Carol,a
+Bill,a
+Everyone,and
+Crowd,and
+song,by
+Song,Does not use stop words
+Dwight-Michael,the
+Sherri,the
+Creed,a
+Devon,you
+Children,the
+Kid,a
+Vance Refrigeration Worker #1,a
+Vance Refrigeration Worker #2,Does not use stop words
+Hank the Security Guard,is
+Ira,a
+Ryan's Voicemail,new
+Master,to
+Alyssa,Does not use stop words
+Christian,to
+Hostess,way
+Michael-Christian,back
+Sadiq (IT guy),you
+Mark,the
+Improv Teacher,the
+Mary-Beth,he
+Girl acting Pregnant,to
+Actress,Does not use stop words
+Michael-Jim,we
+Kevin - Oscar,two
+All,the
+Liquor Store Clerk,comes
+JIm,Does not use stop words
+Bob Vance,you
+Phyllis- Meredith- Michael- Kevin,two
+Captain Jack,the
+Brenda,you
+Darryl-Katy,Does not use stop words
+Jim-Pam,my
+Billy Merchant,a
+Doctor,the
+Lab Tech,that
+Dana,you
+Hooter's Girls,put
+Phylis,who
+Gil,this
+Pam-others,after
+Ed,your
+Todd,you
+Jim's voicemail,have
+Women,of
+Guy,on
+Men,Does not use stop words
+Group chant,Does not use stop words
+All the Men,Does not use stop words
+Dwight-Roy,at
+Delivery man,you
+Craig,was
+Josh,you
+David,you
+Dan,that
+Receptionist,you
+Overhead,this
+Speaker,the
+Jim-Dwight,in
+Melissa,you
+Sasha,you
+Abby,you
+Jake,you
+The Kids,do
+Kids,a
+Miss Trudy,of
+Edward R. Meow,you
+Chet,want
+Young Michael,to
+Delivery Woman,for
+Delivery Boy,eight
+Office Staff,in
+Store Employee,dont
+Pam/Jim,in
+Linda,a
+Hank,a
+Sheriff,you
+I.D. Photographer,Does not use stop words
+Photographer,you
+Anglea,didnt
+Female worker,will
+Billy's Girlfriend,get
+Billy,my
+Dealer,is
+Bob,you
+Meredith's Vet,right
+Andy,you
+Karen,you
+Jerome Bettis,right
+Ted,see
+Waiter,you
+Jim- Josh--Dwight,Does not use stop words
+Evan,you
+Alan,to
+Ryan-others,its
+Hannah,to
+Announcer,the
+Pretzel guy,have
+Cousin Mose,seemed
+Tony,me
+Server,all
+Girls,in
+Kelly's Mom,a
+Kelly's Father,you
+Young Man,it
+Andy-Jim,to
+Mrs. Kapoor,Does not use stop words
+Mr. Kapoor,Does not use stop words
+M ichael,me
+Dwight:,is
+Martin,in
+Male voice,thank
+Michael - Dwight,in
+Andy - Michael,me
+Chef,the
+Woman at bar,think
+Cindy,dont
+Second Cindy,the
+Other waitress,about
+Andy-Michael,a
+Both,the
+Someone,your
+Harvey,you
+Buyer,a
+Kenny,of
+Julius,you
+Phone,you
+Staples Guy,those
+MIchael,me
+Lady,the
+Paris,be
+Marcy,to
+Ben Franklin,the
+Elizabeth,the
+Priest,do
+Uncle Al,dont
+Randy,a
+Unknown,is
+College Student,Does not use stop words
+Business Student #1,in
+Business Student #2,a
+Business Student #3,far
+Woman,you
+Artist,for
+Student 1,have
+Student 2,the
+Student 3,your
+Rachel,get
+Dan Gore,Does not use stop words
+Bartender,you
+Child,dont
+Hunter,is
+Darry,would
+Micheal,the
+Larry,please
+Chad Lite,of
+Jamie,is
+Barbara,it
+School Official,with
+Barbara Allen,were
+Spanish Teacher,help
+Denise,you
+Group,the
+IT Tech Guy,to
+Nurse,to
+Intern,a
+Pediatrician,a
+Robert Dunder,was
+Amy,you
+GPS,the
+Larry Myers,with
+Ex-client,it
+Voice of Thomas Dean,you
+sAndy,soon
+DunMiff/sys,on
+DwightKSchrute,on
+Tech Guy,the
+Angels,Does not use stop words
+Pizza guy,not
+Voice #1 on phone,it
+Voice #2 on phone,she
+Micahel,this
+Michae,dont
+Nick,the
+Mose,to
+Co-Worker 1,a
+Stanely,on
+Micael,Does not use stop words
+Vikram,you
+Co-Worker 2,you
+Co-Worker 3,it
+Mr. Figaro,of
+Oscar-Stanley,just
+Ad guy 1,we
+Ad guy 2,to
+David Wallace,to
+Andy- Creed- Kevin- Kelly- Darryl,or
+Andy- Creed- Kevin- Kelly,Does not use stop words
+Michael's Ad,a
+Rolando,on
+Ben,the
+Security guard,in
+Lester,you
+Diane Kelly,you
+Diane,you
+Deposition Reporter,to
+Council,he
+Hunter's CD,right
+Officer 1,a
+Officer 2,you
+Officer,be
+Neighbor,a
+Wendy's phone operator,to
+Margaret,to
+Coffee shop worker,with
+Jan [on phone],up
+W.B. Jones,just
+Paul Faust,Does not use stop words
+Bill Cress,Does not use stop words
+Paul,have
+Michael/Dwight,in
+Troy,you
+Girl in Club,never
+Tall Girl #1,to
+All Girls,Does not use stop words
+Tall Girl #2,not
+Girl in 2nd club,do
+Cleaning lady,Does not use stop words
+Michael-Darryl,you
+Phil Maguire,you
+Phil,a
+Justin,of
+Angela-Dwight,back
+Maguire,with
+Woman on mic,will
+Graphics guy,the
+Brad,to
+Air Force recruiter,he
+Holly,you
+Woman over speakerphone,do
+Vance Refrigeration guy,were
+Holy,not
+Co-workers,on
+Ronnie,this
+Professor,the
+Friend,just
+JIM9334 [screen name],for
+Receptionitis15 [screen name],Does not use stop words
+JIM9334,well
+Receptionitis15,you
+Michael - Holly,get
+Dight,Does not use stop words
+Kendall,the
+Michael [on phone],you
+Pam [on phone],not
+Man on phone,the
+Hank [the security guard],and
+Guy in audience,Does not use stop words
+Michael-Holly,is
+Michael- Holly--Darryl,youre
+Tom,a
+Pete,to
+Holly - Darryl,in
+Holly - Michael,both
+Mother,you
+Alex,you
+Customer,you
+Kevin - Andy,Does not use stop words
+Stanley - Phyllis,to
+Stewardess,sorry
+Beth,to
+Concierge,the
+Marie,you
+Guy at table,sorry
+Concierge Marie,am
+Client,with
+Dacvid Walalce,okay
+David Wallcve,please
+Dacvid Wallace,sometimes
+Leo,you
+Vance Refrigeration Guy,just
+Police Officer 1,a
+Police Officer 2,away
+Guy buying doll,Does not use stop words
+Rehab Nurse,help
+Everyone watching,Does not use stop words
+Entire Prince family,hi
+Prince Grandfather,you
+Entire office,Does not use stop words
+Prince,why
+Prince Granddaughter,cant
+Prince Grandmother,put
+Prince Son,at
+Phyllis-Creed,through
+Lawyer,a
+CPR trainer,for
+CPR Trainer,been
+Rose,to
+Jessica Alba,want
+Lily,you
+Sam,to
+Warehouse Michael,gave
+Julia,a
+A.J.,are
+Phone Salesman,about
+Jim- Pam- Michael-Dwight,Does not use stop words
+Blood Drive Worker,a
+Blood Girl,it
+Lynn,didnt
+Blonde,a
+Eric,a
+Girl,to
+Charles,you
+Stephanie,you
+Employees,as
+Isaac,the
+Angela-Kelly,just
+Supervisor,to
+Michal,you
+Nana,this
+Chares,Does not use stop words
+Old Woman,could
+Erin,you
+Dwight-Erin,Does not use stop words
+Dwight-Andy,me
+Michael- Pam - Ryan,you
+Secretary,in
+Automated phone voice,youd
+Mr. Schofield,you
+Financial Guy,you
+Ty,a
+Jessica,you
+Vance Refrigeration Guy 1,in
+Vance Refrigeration Guy 2,Does not use stop words
+VRG 1,the
+VRG 2,other
+Rolph,one
+AJ,a
+Man from Buffalo,over
+Woman from Buffalo,is
+Dwight - Andy,into
+Female Intern,a
+Female intern,Does not use stop words
+Maurie,you
+Dwight- Jim - Pam,at
+Jim - Pam,look
+Megan,you
+Gwenneth,Does not use stop words
+Front Desk Clerk,sorry
+Mr. Halpert,which
+Mema,to
+Mr. Beesly,you
+Little Girl,the
+Penny,sorry
+Isabel,you
+Hotel Employee,you
+Hotel Manager,and
+Pam's mom,a
+Tom Halpert,me
+Pete Halpert,in
+Tom-Pete,Does not use stop words
+Pam's dad,Does not use stop words
+Grotti,you
+Andy-Dwight,the
+Credit card rep,from
+Rep,you
+Various,out
+Keena Gifford,the
+Helene,you
+David Wallace's Secretary,sorry
+Voice on CD player,to
+Limo Driver,eight
+Laurie,you
+Registrar,of
+Security,to
+Woman in line,just
+Man in line,Does not use stop words
+Shareholder,a
+Female Shareholder,Does not use stop words
+Second Shareholder,all
+Third Shareholder,havent
+Fourth Shareholder,are
+O'Keefe,the
+Mikela,you
+Students,you
+Teacher,you
+Lefevre,to
+Zion,Does not use stop words
+Deliveryman,have
+Michael-Erin,you
+Daryl,you
+Office,Does not use stop words
+Kelly-Erin,on
+Matt,dont
+Computron,to
+Fake Stanley,Does not use stop words
+Gabe,to
+Andy - Erin,the
+Christian Slater,the
+Jo Bennett,to
+Jo,you
+Jerry,you
+Teddy Wallace,Does not use stop words
+Mrs. Wallace,you
+Teddy,it
+Dwight- Jim-Michael,we
+Policeman,over
+Hospital employee,you
+(Pam's mom) Heleen,there
+Kathy,like
+Dale,so
+Clark,you
+Isabelle,the
+D,the
+Warehouse guy 1,here
+Warehouse guy 2,you
+Reid,to
+Night cleaning crew,sorry
+Meredith- Creed- Oscar-Matt,Does not use stop words
+Miichael,you
+Julie,you
+Hide,in
+Bar Manager,you
+Bouncer,got
+Girl at table,what
+Cookie Monster,a
+Dwight.,Does not use stop words
+Hayworth's waiter,we
+Oscar's voice from the computer,the
+Donna,you
+Michael-Donna,Does not use stop words
+Mihael,do
+Old lady,can
+Glen,know
+Gym Instructor,me
+Gym instructor,a
+Dwight-Angela,Does not use stop words
+Shane,right
+Reporter,the
+Realtor,on
+Luke,it
+Window treatment guy,you
+Angel,and
+Salesman,with
+Usher,me
+Shelby,you
+Sweeney Todd,the
+Mexican Man,Does not use stop words
+Son,dont
+Nate,you
+Employees except Dwight,no
+Astrid,was
+Carroll,you
+Carrol,so
+Danny,you
+Steve,for
+Darryl-Andy,if
+Church congregation,ask
+Pastor,to
+Female church member,for
+Male church member,to
+Female church member [to Michael],Does not use stop words
+Doug [church member],Does not use stop words
+Doug,to
+Mee-Maw,and
+MeeMaw,dont
+Carla,you
+Jim's Dad,want
+Bus driver,stop
+Michael-Andy,the
+Another guy,getting
+Radio,new
+Cece,want
+TV,the
+Meridith,back
+Robotic Voice,from
+Ryan-Michael,Does not use stop words
+Phyliss,on
+Dwight - Nate,Does not use stop words
+Passer-by,thats
+Bass Player,looking
+Justine,wants
+Jada,a
+Robert,the
+Darrly,out
+Member,was
+Video Michael,down
+Bookstore employee,you
+DJ,you
+David Brent,a
+Older guy,was
+Phyllis- Stanley- Dwight,Does not use stop words
+Younger Guy,like
+Older Woman,take
+Professor Powell,a
+Ryan-Kelly,dont
+Helen,a
+Attendant,it
+Hot Dog Guy,away
+Cell Phone Sales Person,you
+Boom Box,at
+Andy-Erin,out
+Holly's Mom,on
+Holly's Dad,on
+Deangelo,the
+Deangelo/Michael,in
+Denagelo,it
+Darryl's sister,out
+DeAngelo,the
+Audience,Does not use stop words
+Together,Does not use stop words
+Erin-Kelly,of
+abe,you
+Rory,him
+DeAgnelo,with
+Jordan,you
+Dwight [on phone],youll
+Mose [on phone],Does not use stop words
+All but Oscar,under
+Darryl-Angela,Does not use stop words
+Fred Henry,yes
+Fred,you
+Warren Buffett,you
+Warren,about
+Robert California,the
+Merv Bronte,the
+Merv,and
+Nellie Bertram,take
+Nellie,the
+Finger Lakes Guy,the
+Pam as fourth-biggest client,a
+Pam as ninth-biggest client,in
+Darryl - Oscar,him
+Tattoo Artist,a
+Female Applicant,old
+Male Applicant 1,all
+Male Applicant 2,a
+Gideon,a
+Bruce,it
+Dwight- Erin- Jim - Kevin,a
+Walter,you
+Ellen,were
+Walter Jr,wouldnt
+Andy - Walter,to
+Walter - Walter Jr,you
+Erin's Cell Phone,youd
+Bert,a
+Gabe/Kelly/Toby,and
+Andy/Pam,you
+Andy/Stanley,new
+Val,you
+Warehouse Crew,Does not use stop words
+Cathy,a
+Offscreen,Does not use stop words
+Curtis,the
+Drummer,Does not use stop words
+Pam-Kelly,the
+Old Man,you
+Andy-Darryl,your
+Darryl-Kevin,Does not use stop words
+Park Ranger,of
+Chelsea,you
+Archivist,you
+Narrator,the
+Soldier,since
+Amanda,the
+Susan,to
+Andy/Oscar,it
+Bob's Secretary,just
+Mrs. California,is
+Host,the
+Queerenstein Bears,go
+Oscar's friend,Does not use stop words
+Stu,my
+Stonewall Host,up
+Meredith - Kelly,two
+Einsteins,Does not use stop words
+Senator Lipton,a
+Ernesto,up
+Officer Foley,that
+Andy- Darryl - Officer Foley,first
+Saleswoman,does
+Emergency Operator,where
+Paramedic,need
+Donna Muraski,her
+Wally Amos,to
+Angela/Pam,Does not use stop words
+Brandon,you
+Blogger,at
+Blogger 2,is
+Lady Blogger,a
+Patty,Does not use stop words
+Old Lady,and
+Others,Does not use stop words
+Elderly Woman,from
+Irene,you
+Alonzo,by
+Glenn,the
+Erin-Irene,as
+Kevin - Meredith,in
+Lauren,you
+Party guests,it
+Magician,you
+Ravi,you
+Robert - Creed,in
+Wrangler,around
+Senator,to
+Vet,to
+Harry,you
+Mr. Ramish,me
+Calvin,a
+Off-camera,you
+Rafe,Does not use stop words
+Fake Jim,for
+Voicemail,your
+Nellie-Pam,Does not use stop words
+Group: Dunder Mifflin!
+Andy: Andy Bernard presents: Summer Softball Epic Fails! [Kevin swings bat on screen- fart noise follows] Fail. [repeats] Fail,Does not use stop words
+[repeats]
+Andy: Fail,Does not use stop words
+[Clark-Pete are shown on screen]
+Video Andy: Hey- I'm Pete- puberty is such a drag- man. And I'm Clark! I like to eat toilet paper. [Clark-Pete wave at camera] We fail! [Video shows memorial of Jerry,Does not use stop words
+Phyllis- Kevin - Stanley,Does not use stop words
+HCT,to
+HCT Member #1,you
+HCT Member #2,was
+Broccoli Rob,and
+Businessman #1,the
+Businessman #2,the
+Businessman #3,of
+HCT Member #3,to
+White,we
+Boat Guy,to
+Walt Jr.,was
+Senator Liptop,just
+Guys in breakroom,Does not use stop words
+Business partner,on
+Molly,to
+Colin,its
+Trevor,it
+Julius Irving,you
+New Instant Message,with
+Suit Store Father,to
+Athlead Employee,the
+Dennis,want
+Wade,Does not use stop words
+Suit Store Son,you
+Female Athlead Employee,was
+3rd Athlead Employee,at
+4th Athlead Employee,a
+Co-worker,at
+Co-worker #2,sure
+Mr. Romanko,you
+Dance Teacher,and
+Ballerinas,two
+Parent in Audience,Does not use stop words
+Parent in audience #2,very
+Parent in audience #1,very
+Investor,appreciate
+Lonnie,you
+Fast Food Worker,your
+Drive Thru Customer,in
+Brian,you
+Cameraman,Does not use stop words
+Rolf,to
+Gabor,you
+Zeke,the
+Melvina,to
+Wolf,it
+Sensei Ira,sorry
+Pam - Dwight,Does not use stop words
+Frank,to
+Party Announcer,and
+Party Guest,two
+Party Photographer,to
+Party Waiter,Does not use stop words
+Nail stylist 1,is
+Nail stylist 2,to
+Nail manager,for
+Shirley,you
+Athlead Coworker,got
+Roger,you
+Alice,to
+Oscar's Computer,know
+Jeb,a
+German Minister,to
+Fannie,a
+Henry,the
+Esther,the
+Aunt Shirley,you
+Cameron,after
+Promo Voice,and
+Ryan Howard,to
+Mr. Ruger,you
+Promo Announcer,Does not use stop words
+Ruger Sister 1,the
+Salesmen,up
+Ruger Sister 2,should
+Angela - Oscar,what
+Reporter #1,were
+Reporter #2,for
+Mrs. Davis,on
+Phillip,Does not use stop words
+Carla Fern,you
+Director,the
+Producer,your
+Bob Vance- Vance Refrigeration,can
+Production Assistant,so
+Sensei,the
+Philip,Does not use stop words
+Check-in guy,the
+Casey,you
+Mark McGrath,you
+Jim - Dwight,that
+Camera Crew,got
+People in line,come
+Santigold,is
+Aaron Rodgers,youre
+Clay Aiken,not
+CameraMan,getting
+Malcolm,thanks
+Casey Dean,cant
+Bill Hader,and
+Seth Mayers,be
+Dakota,the
+Stripper,you
+Jakey,or
+Man 1,did
+Woman 1,to
+Woman 2,if
+Man 2,what
+Moderator,on
+Man 3,you
+Woman 3,know
+Woman 4,how
+Joan,you
+Minister,the
+Carol Stills,sorry
