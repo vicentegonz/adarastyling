@@ -9,3 +9,5 @@ Main Assumptions:
 
 There are commits in different days and hours of a same day, this is beacouse I worked in intervals due to other University assignments that needed to be done.
 In other words I respected the time constraint.
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC9CoGbTeRunv7xXlxYxT4Vu9icQkuxE_685rD-dYGZnzISa0KDyt2mR8DuV654KvGmt0&usqp=CAU)
