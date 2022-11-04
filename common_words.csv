@@ -1,797 +1,722 @@
 name,most_common_word
-Michael,good
-Jim,yeah
-Pam,yeah
-Dwight,jim
-Jan,michael
-Michel,shove
-Todd Packer,hey
-Phyllis,michael
-Stanley,michael
-Oscar,michael
-Angela,dwight
-Kevin,yeah
-Ryan,yeah
-Man,hey
-Roy,hey
-Documentary Crew Member,move
-Mr. Brown,great
-Toby,michael
-Kelly,ryan
-Meredith,hey
-Travel Agent,um
-Man on Phone,elevator
-Everybody,birthday
-Lonny,yeah
-Darryl,yeah
-Teammates,yeah
-Michael and Dwight,utica
-Warehouse worker,roy
-Madge,hey
-Worker,arm
-Packer,stripper
-Warehouse Worker,basketball
-Katy,um
-Guy at bar,sing
-Other Guy at Bar,yo
-Guy At Bar,sing
-Pam and Jim,dundies
-Employee,gonna
-Chili's Employee,strict
-Waitress,margarita
-Manager,clothes
-Kevin's computer,monkey
-Warehouse Guy,Does not use words
-Warehouse guy,package
-Warehouse guys,kissing
-Video,lazy
-Man in Video,todays
-Actor,hey
-Redheaded Actress,hey
-Mr. O'Malley,love
-Albiny,camera
-Pam's Mom,um
-Carol,michael
-Bill,private
-Everyone,yeah
-Crowd,clapping
+michael,good
+jim,yeah
+pam,yeah
+dwight,jim
+jan,michael
+michel,shove
+todd packer,hey
+phyllis,michael
+stanley,michael
+oscar,michael
+angela,dwight
+kevin,yeah
+ryan,yeah
+man,hey
+roy,hey
+documentary crew member,move
+mr. brown,great
+toby,michael
+kelly,ryan
+meredith,hey
+travel agent,um
+man on phone,elevator
+everybody,birthday
+lonny,yeah
+darryl,yeah
+teammates,yeah
+warehouse worker,roy
+madge,hey
+worker,arm
+packer,stripper
+katy,um
+guy at bar,sing
+other guy at bar,yo
+employee,gonna
+chili's employee,strict
+waitress,margarita
+manager,clothes
+kevin's computer,monkey
+warehouse guy,package
+warehouse guys,kissing
+video,lazy
+man in video,todays
+actor,hey
+redheaded actress,hey
+mr. o'malley,love
+albiny,camera
+pam's mom,remember
+carol,michael
+bill,private
+everyone,yeah
+crowd,clapping
 song,hurts
-Song,hurts
-Dwight and Michael,ha
-Sherri,jan
-Creed,hey
-Devon,hey
-Children,ringing
-Kid,bumble
-Vance Refrigeration Worker #1,hey
-Vance Refrigeration Worker #2,ass
-Hank the Security Guard,building
-Ira,break
-Ryan's Voicemail,message
-Master,dwight
-Alyssa,sensei
-Christian,long
-Hostess,scott
-Michael and Christian,baby
-Sadiq (IT guy),password
-Mark,uh
-Improv Teacher,michael
-Mary-Beth,la
-Girl acting Pregnant,supposed
-Actress,Does not use words
-Michael and Jim,singing
-Kevin & Oscar,lift
-All,croak
-Liquor Store Clerk,16641
-JIm,
-Bob Vance,vance
-Phyllis, Meredith, Michael, Kevin,shot
-Captain Jack,captain
-Brenda,yeah
-Darryl and Katy,snorkel
-Jim and Pam,god
-Billy Merchant,michael
-Doctor,sir
-Lab Tech,electronics
-Dana,great
-Hooter's Girls,front
-Phylis,angela
-Gil,yeah
-Pam and others,check
-Ed,yeah
-Todd,michael
-Jim's voicemail,unheard
-Women,general
-Guy,dude
-Men,generalized
-Group chant,michael
-All the Men,generalized
-Dwight and Roy,time
-Delivery man,sign
-Craig,jan
-Josh,jim
-David,michael
-Dan,Does not use words
-Receptionist,seat
-Overhead,baby
-Speaker,dwight
-Jim and Dwight,unison
-Melissa,cool
-Sasha,daddy
-Abby,yeah
-Jake,yeah
-The Kids,raising
-Kids,ewwww
-Miss Trudy,tv
-Edward R. Meow,uh
-Chet,names
-Young Michael,recess
-Delivery Woman,delivery
-Delivery Boy,uh
-Office Staff,happy
-Store Employee,maam
-Pam/Jim,unison
-Linda,urine
-Hank,copier
-Sheriff,mace
-I.D. Photographer,Does not use words
-Photographer,camera
-Anglea,michael
-Female worker,jan
-Billy's Girlfriend,gonna
-Billy,fine
-Dealer,sir
-Bob,jackass
-Meredith's Vet,hey
-Andy,yeah
-Karen,yeah
-Jerome Bettis,guys
-Ted,Does not use words
-Waiter,hey
-Jim, Josh, and Dwight,pam
-Evan,talk
-Alan,yeah
-Ryan and others,yeah
-Hannah,baby
-Announcer,attention
-Pretzel guy,chocolate
-Cousin Mose,bye
-Tony,shook
-Server,vegetarian
-Girls,laugh
-Kelly's Mom,money
-Kelly's Father,long
-Young Man,outgoing
-Andy and Jim,sing
-Mrs. Kapoor,police
-Mr. Kapoor,nods
-M ichael,wallace
-Dwight:,closed
-Martin,time
-Male voice,james
-Michael & Dwight,electric
-Andy & Michael,hurt
-Chef,usuba
-Woman at bar,dwight
-Cindy,bed
-Second Cindy,hey
-Other waitress,agree
-Andy and Michael,big
-Both,spot
-Someone,trip
-Harvey,long
-Buyer,yep
-Kenny,bermuda
-Julius,great
-Phone,send
-Staples Guy,sell
-MIchael,lot
-Lady,good
-Paris,gonna
-Marcy,andy
-Ben Franklin,life
-Elizabeth,secrets
-Priest,phyllis
-Uncle Al,great
-Randy,phyllis
-Unknown,Does not use words
-College Student,dude
-Business Student #1,sir
-Business Student #2,nationwide
-Business Student #3,herfindahl
-Woman,picture
-Artist,coming
-Student 1,adopted
-Student 2,question
-Student 3,high
-Rachel,excuse
-Dan Gore,Does not use words
-Bartender,hey
-Child,born
-Hunter,jan
-Darry,worst
-Micheal,time
-Larry,sir
-Chad Lite,uh
-Jamie,andy
-Barbara,business
-School Official,moment
-Barbara Allen,accept
-Spanish Teacher,sir
-Denise,dad
-Group,yeah
-IT Tech Guy,generally
-Nurse,nursery
-Intern,ms
-Pediatrician,gonna
-Robert Dunder,mifflin
-Amy,yeah
-GPS,proceed
-Larry Myers,closed
-Ex-client,great
-Voice of Thomas Dean,told
-sAndy,start
-DunMiff/sys,monitor
-DwightKSchrute,monitor
-Tech Guy,setting
-Angels,Does not use words
-Pizza guy,loser
-Voice #1 on phone,hey
-Voice #2 on phone,yeah
-Micahel,eyes
-Michae,making
-Nick,captivating
-Mose,car
-Co-Worker 1,woman
-Stanely,phone
-Micael,Does not use words
-Vikram,good
-Co-Worker 2,dude
-Co-Worker 3,love
-Mr. Figaro,lipophedrine
-Oscar and Stanley,pocket
-Ad guy 1,sounds
-Ad guy 2,hey
-David Wallace,dwight
-Andy, Creed, Kevin, Kelly, Darryl,call
-Andy, Creed, Kevin, Kelly,people
-Michael's Ad,paper
-Rolando,karen
-Ben,michael
-Security guard,sprayed
-Lester,ms
-Diane Kelly,scott
-Diane,uh
-Deposition Reporter,scott
-Council,david
-Hunter's CD,night
-Officer 1,dwight
-Officer 2,neighbors
-Officer,charged
-Neighbor,weimaraner
-Wendy's phone operator,wendys
-Margaret,michael
-Coffee shop worker,michael
-Jan [on phone],michael
-W.B. Jones,meet
-Paul Faust,parking
-Bill Cress,ohh
-Paul,time
-Michael/Dwight,singing
-Troy,hey
-Girl in Club,heard
-Tall Girl #1,stay
-All Girls,wooo
-Tall Girl #2,Does not use words
-Girl in 2nd club,aspect
-Cleaning lady,ohh
-Michael and Darryl,simultaneously
-Phil Maguire,takes
-Phil,jim
-Justin,sort
-Angela and Dwight,silently
-Maguire,good
-Woman on mic,job
-Graphics guy,design
-Brad,yeah
-Air Force recruiter,justin
-Holly,michael
-Woman over speakerphone,antigravity
-Vance Refrigeration guy,hey
-Holy,specific
-Co-workers,toby
-Ronnie,dunder
-Professor,professor
-Friend,god
-JIM9334 [screen name],meet
-Receptionitis15 [screen name],
-JIM9334,oclock
-Receptionitis15,
-Michael & Holly,ethical
-Dight,michael
-Kendall,holly
-Michael [on phone],paaamolaaaaaa
-Pam [on phone],jim
-Man on phone,hear
-Hank [the security guard],blues
-Guy in audience,140
-Michael and Holly,life
-Michael, Holly, and Darryl,wanna
-Tom,pam
-Pete,yeah
-Holly & Darryl,unison
-Holly & Michael,laugh
-Mother,speakerphone
-Alex,pam
-Customer,nice
-Kevin & Andy,ooooh
-Stanley & Phyllis,continue
-Stewardess,moving
-Beth,isle
-Concierge,good
-Marie,place
-Guy at table,uh
-Concierge Marie,mmmhmmm
-Client,talking
-Dacvid Walalce,hey
-David Wallcve,michael
-Dacvid Wallace,michael
-Leo,weed
-Vance Refrigeration Guy,hey
-Police Officer 1,sir
-Police Officer 2,sir
-Guy buying doll,120
-Rehab Nurse,Does not use words
-Everyone watching,Does not use words
-Entire Prince family,Does not use words
-Prince Grandfather,paper
-Entire office,hot
-Prince,grandfather
-Prince Granddaughter,grandma
-Prince Grandmother,granddaughter
-Prince Son,work
-Phyllis and Creed,ahhhh
-Lawyer,provision
-CPR trainer,abc
-CPR Trainer,20
-Rose,alive
-Jessica Alba,nana
-Lily,sam
-Sam,lilly
-Warehouse Michael,michael
-Julia,nice
-A.J.,laughs
-Phone Salesman,great
-Jim, Pam, Michael and Dwight,ayyyy
-Blood Drive Worker,yup
-Blood Girl,nervous
-Lynn,kevin
-Blonde,um
-Eric,uh
-Girl,guys
-Charles,michael
-Stephanie,david
-Employees,michael
-Isaac,interviewing
-Angela and Kelly,yep
-Supervisor,work
-Michal,vikram
-Nana,michael
-Chares,striker
-Old Woman,chance
-Erin,andy
-Dwight and Erin,west
-Dwight and Andy,country
-Michael, Pam & Ryan,ugly
-Secretary,uh
-Automated phone voice,reach
-Mr. Schofield,meeting
-Financial Guy,prices
-Ty,program
-Jessica,andy
-Vance Refrigeration Guy 1,girl
-Vance Refrigeration Guy 2,Does not use words
-VRG 1,girls
-VRG 2,room
-Rolph,40
-AJ,hey
-Man from Buffalo,kidding
-Woman from Buffalo,david
-Dwight & Andy,parkour
-Female Intern,hands
-Female intern,confused
-Maurie,talking
-Dwight, Jim & Pam,stare
-Jim & Pam,uncertainly
-Megan,sing
-Gwenneth,sad
-Front Desk Clerk,sir
-Mr. Halpert,pams
-Mema,television
-Mr. Beesly,meet
-Little Girl,bad
-Penny,kevin
-Isabel,dwight
-Hotel Employee,sir
-Hotel Manager,malone
-Pam's mom,kristies
-Tom Halpert,excuse
-Pete Halpert,sisters
-Tom and Pete,laughing
-Pam's dad,hey
-Grotti,side
-Andy and Dwight,groans
-Credit card rep,halpert
-Rep,card
-Various,bye
-Keena Gifford,salesmen
-Helene,michael
-David Wallace's Secretary,michael
-Voice on CD player,bill
-Limo Driver,car
-Laurie,scott
-Registrar,questions
-Security,supposed
-Woman in line,gonna
-Man in line,Does not use words
-Shareholder,criminal
-Female Shareholder,limousine
-Second Shareholder,corrupt
-Third Shareholder,headed
-Fourth Shareholder,gonna
-O'Keefe,excuse
-Mikela,scott
-Students,gonna
-Teacher,scott
-Lefevre,college
-Zion,zion
-Deliveryman,order
-Michael and Erin,gonna
-Daryl,sell
-Office,aw
-Kelly and Erin,christmas
-Matt,oscar
-Computron,computron
-Fake Stanley,Does not use words
-Gabe,uh
-Andy & Erin,dunder
-Christian Slater,sabre
-Jo Bennett,find
-Jo,michael
-Jerry,jerry
-Teddy Wallace,huh
-Mrs. Wallace,hey
-Teddy,suck
-Dwight, Jim and Michael,Does not use words
-Policeman,pull
-Hospital employee,yeah
-(Pam's mom) Heleen,Does not use words
-Kathy,yeah
-Dale,Does not use words
-Clark,yeah
-Isabelle,knock
-D,
-Warehouse guy 1,bust
-Warehouse guy 2,Does not use words
-Reid,erin
-Night cleaning crew,retreat
-Meredith, Creed, Oscar and Matt,cheering
-Miichael,Does not use words
-Julie,yeah
-Hide,bad
-Bar Manager,uh
-Bouncer,problem
-Girl at table,Does not use words
-Cookie Monster,kevins
-Dwight.,pam
-Hayworth's waiter,hot
-Oscar's voice from the computer,hey
-Donna,michael
-Michael and Donna,indistinct
-Mihael,Does not use words
-Old lady,young
-Glen,scared
-Gym Instructor,excuse
-Gym instructor,listen
-Dwight and Angela,joint
-Shane,guys
-Reporter,michael
-Realtor,phone
-Luke,coffee
-Window treatment guy,office
-Angel,long
-Salesman,remember
-Usher,excuse
-Shelby,michael
-Sweeney Todd,johanna
-Mexican Man,speaking
-Son,man
-Nate,uh
-Employees except Dwight,Does not use words
-Astrid,mommy
-Carroll,michael
-Carrol,love
-Danny,good
-Steve,michael
-Darryl and Andy,singing
-Church congregation,singing
-Pastor,love
-Female church member,prayers
-Male church member,good
-Female church member [to Michael],good
-Doug [church member],doug
-Doug,davey
-Mee-Maw,fine
-MeeMaw,lost
-Carla,sir
-Jim's Dad,jim
-Bus driver,schedule
-Michael and Andy,bus
-Another guy,bus
-Radio,nordquist
-Cece,mama
-TV,winner
-Meridith,drama
-Robotic Voice,wuphf
-Ryan and Michael,wuphf
-Phyliss,god
-Dwight & Nate,pam
-Passer-by,yeah
-Bass Player,michael
-Justine,christmas
-Jada,merry
-Robert,andy
-Darrly,handing
-Member,pretty
-Video Michael,whoa
-Bookstore employee,read
-DJ,skating
-David Brent,yeah
-Older guy,thinking
-Phyllis, Stanley, Dwight,oooh
-Younger Guy,point
-Older Woman,nard
-Professor Powell,um
-Ryan and Kelly,married
-Helen,jim
-Attendant,left
-Hot Dog Guy,pawn
-Cell Phone Sales Person,thing
-Boom Box,temp
-Andy and Erin,bursting
-Holly's Mom,friend
-Holly's Dad,holly
-Deangelo,yeah
-Deangelo/Michael,unison
-Denagelo,whispering
-Darryl's sister,hey
-DeAngelo,michael
-Audience,speech
-Together,showtime
-Erin and Kelly,cups
+sherri,jan
+creed,hey
+devon,hey
+children,ringing
+kid,bumble
+vance refrigeration worker #1,hey
+vance refrigeration worker #2,ass
+hank the security guard,building
+ira,break
+ryan's voicemail,message
+master,dwight
+alyssa,sensei
+christian,baby
+hostess,scott
+sadiq (it guy),password
+mark,uh
+improv teacher,michael
+mary-beth,la
+girl acting pregnant,supposed
+actress,Does not use words
+all,croak
+liquor store clerk,16641
+bob vance,vance
+ meredith,shot
+ michael,ayyyy
+ kevin,people
+captain jack,captain
+brenda,yeah
+billy merchant,michael
+doctor,sir
+lab tech,electronics
+dana,great
+hooter's girls,front
+phylis,angela
+gil,yeah
+others,yeah
+ed,yeah
+todd,michael
+jim's voicemail,unheard
+women,general
+guy,dude
+men,generalized
+group chant,michael
+all the men,generalized
+delivery man,sign
+craig,jan
+josh,jim
+david,michael
+dan,Does not use words
+receptionist,seat
+overhead,baby
+speaker,dwight
+melissa,cool
+sasha,daddy
+abby,yeah
+jake,yeah
+the kids,raising
+kids,ewwww
+miss trudy,tv
+edward r. meow,uh
+chet,names
+young michael,recess
+delivery woman,delivery
+delivery boy,uh
+office staff,happy
+store employee,maam
+linda,urine
+hank,copier
+sheriff,mace
+i.d. photographer,Does not use words
+photographer,camera
+anglea,michael
+female worker,jan
+billy's girlfriend,gonna
+billy,fine
+dealer,sir
+bob,jackass
+meredith's vet,hey
+andy,yeah
+karen,yeah
+jerome bettis,guys
+ted,Does not use words
+waiter,hey
+ josh,pam
+,pam
+evan,talk
+alan,yeah
+hannah,baby
+announcer,attention
+pretzel guy,chocolate
+cousin mose,bye
+tony,shook
+server,vegetarian
+girls,laugh
+kelly's mom,money
+kelly's father,long
+young man,outgoing
+mrs. kapoor,police
+mr. kapoor,nods
+m ichael,wallace
+dwight:,closed
+martin,time
+male voice,james
+chef,usuba
+woman at bar,dwight
+cindy,bed
+second cindy,hey
+other waitress,agree
+both,spot
+someone,trip
+harvey,long
+buyer,yep
+kenny,bermuda
+julius,great
+phone,send
+staples guy,sell
+lady,good
+paris,gonna
+marcy,andy
+ben franklin,life
+elizabeth,secrets
+priest,phyllis
+uncle al,great
+randy,phyllis
+unknown,Does not use words
+college student,dude
+business student #1,sir
+business student #2,nationwide
+business student #3,herfindahl
+woman,picture
+artist,coming
+student 1,adopted
+student 2,question
+student 3,high
+rachel,excuse
+dan gore,Does not use words
+bartender,hey
+child,born
+hunter,jan
+darry,worst
+micheal,time
+larry,sir
+chad lite,uh
+jamie,andy
+barbara,business
+school official,moment
+barbara allen,accept
+spanish teacher,sir
+denise,dad
+group,yeah
+it tech guy,generally
+nurse,nursery
+intern,ms
+pediatrician,gonna
+robert dunder,mifflin
+amy,yeah
+gps,proceed
+larry myers,closed
+ex-client,great
+voice of thomas dean,told
+sandy,start
+dunmiff,monitor
+sys,monitor
+dwightkschrute,monitor
+tech guy,setting
+angels,Does not use words
+pizza guy,loser
+voice #1 on phone,hey
+voice #2 on phone,yeah
+micahel,eyes
+michae,making
+nick,captivating
+mose,car
+co-worker 1,woman
+stanely,phone
+micael,Does not use words
+vikram,good
+co-worker 2,dude
+co-worker 3,love
+mr. figaro,lipophedrine
+ad guy 1,sounds
+ad guy 2,hey
+david wallace,dwight
+ creed,people
+ kelly,people
+ darryl,stream
+michael's ad,paper
+rolando,karen
+ben,michael
+security guard,sprayed
+lester,ms
+diane kelly,scott
+diane,uh
+deposition reporter,scott
+council,david
+hunter's cd,night
+officer 1,dwight
+officer 2,neighbors
+officer,charged
+neighbor,weimaraner
+wendy's phone operator,wendys
+margaret,michael
+coffee shop worker,michael
+jan [on phone],michael
+w.b. jones,meet
+paul faust,parking
+bill cress,ohh
+paul,time
+troy,hey
+girl in club,heard
+tall girl #1,stay
+all girls,wooo
+tall girl #2,Does not use words
+girl in 2nd club,aspect
+cleaning lady,ohh
+phil maguire,takes
+phil,jim
+justin,sort
+maguire,good
+woman on mic,job
+graphics guy,design
+brad,yeah
+air force recruiter,justin
+holly,michael
+woman over speakerphone,antigravity
+vance refrigeration guy,hey
+holy,specific
+co-workers,toby
+ronnie,dunder
+professor,professor
+friend,god
+jim9334 [screen name],meet
+receptionitis15 [screen name],
+jim9334,oclock
+receptionitis15,
+dight,michael
+kendall,holly
+michael [on phone],paaamolaaaaaa
+pam [on phone],jim
+hank [the security guard],blues
+guy in audience,140
+ holly,wanna
+tom,pam
+pete,yeah
+mother,speakerphone
+alex,pam
+customer,nice
+stewardess,moving
+beth,isle
+concierge,good
+marie,place
+guy at table,uh
+concierge marie,mmmhmmm
+client,talking
+dacvid walalce,hey
+david wallcve,michael
+dacvid wallace,michael
+leo,weed
+police officer 1,sir
+police officer 2,sir
+guy buying doll,120
+rehab nurse,Does not use words
+everyone watching,Does not use words
+entire prince family,Does not use words
+prince grandfather,paper
+entire office,hot
+prince,grandfather
+prince granddaughter,grandma
+prince grandmother,granddaughter
+prince son,work
+lawyer,provision
+cpr trainer,breathing
+rose,alive
+jessica alba,nana
+lily,sam
+sam,lilly
+warehouse michael,michael
+julia,nice
+a.j.,laughs
+phone salesman,great
+ pam,ugly
+blood drive worker,yup
+blood girl,nervous
+lynn,kevin
+blonde,um
+eric,uh
+girl,guys
+charles,michael
+stephanie,david
+employees,michael
+isaac,interviewing
+supervisor,work
+michal,vikram
+nana,michael
+chares,striker
+old woman,chance
+erin,andy
+secretary,uh
+automated phone voice,reach
+mr. schofield,meeting
+financial guy,prices
+ty,program
+jessica,andy
+vance refrigeration guy 1,girl
+vance refrigeration guy 2,Does not use words
+vrg 1,girls
+vrg 2,room
+rolph,40
+aj,hey
+man from buffalo,kidding
+woman from buffalo,david
+female intern,hands
+maurie,talking
+ jim,dwight
+megan,sing
+gwenneth,sad
+front desk clerk,sir
+mr. halpert,pams
+mema,television
+mr. beesly,meet
+little girl,bad
+penny,kevin
+isabel,dwight
+hotel employee,sir
+hotel manager,malone
+tom halpert,excuse
+pete halpert,sisters
+pam's dad,hey
+grotti,side
+credit card rep,halpert
+rep,card
+various,bye
+keena gifford,salesmen
+helene,michael
+david wallace's secretary,michael
+voice on cd player,bill
+limo driver,car
+laurie,scott
+registrar,questions
+security,supposed
+woman in line,gonna
+man in line,Does not use words
+shareholder,criminal
+female shareholder,limousine
+second shareholder,corrupt
+third shareholder,headed
+fourth shareholder,gonna
+o'keefe,excuse
+mikela,scott
+students,gonna
+teacher,scott
+lefevre,college
+zion,zion
+deliveryman,order
+daryl,sell
+office,aw
+matt,oscar
+computron,computron
+fake stanley,Does not use words
+gabe,uh
+christian slater,sabre
+jo bennett,find
+jo,michael
+jerry,jerry
+teddy wallace,huh
+mrs. wallace,hey
+teddy,suck
+policeman,pull
+hospital employee,yeah
+(pam's mom) heleen,Does not use words
+kathy,yeah
+dale,Does not use words
+clark,yeah
+isabelle,knock
+d,
+warehouse guy 1,bust
+warehouse guy 2,Does not use words
+reid,erin
+night cleaning crew,retreat
+ oscar,cheering
+miichael,Does not use words
+julie,yeah
+hide,bad
+bar manager,uh
+bouncer,problem
+girl at table,Does not use words
+cookie monster,kevins
+dwight.,pam
+hayworth's waiter,hot
+oscar's voice from the computer,hey
+donna,michael
+mihael,Does not use words
+old lady,young
+glen,scared
+gym instructor,excuse
+shane,guys
+reporter,michael
+realtor,phone
+luke,coffee
+window treatment guy,office
+angel,long
+salesman,remember
+usher,excuse
+shelby,michael
+sweeney todd,johanna
+mexican man,speaking
+son,man
+nate,pam
+employees except dwight,Does not use words
+astrid,mommy
+carroll,michael
+carrol,love
+danny,good
+steve,michael
+church congregation,singing
+pastor,love
+female church member,prayers
+male church member,good
+female church member [to michael],good
+doug [church member],doug
+doug,davey
+mee-maw,fine
+meemaw,lost
+carla,sir
+jim's dad,jim
+bus driver,schedule
+another guy,bus
+radio,nordquist
+cece,mama
+tv,winner
+meridith,drama
+robotic voice,wuphf
+phyliss,god
+passer-by,yeah
+bass player,michael
+justine,christmas
+jada,merry
+robert,andy
+darrly,handing
+member,pretty
+video michael,whoa
+bookstore employee,read
+dj,skating
+david brent,yeah
+older guy,thinking
+ stanley,oooh
+ dwight,oooh
+younger guy,point
+older woman,nard
+professor powell,um
+helen,jim
+attendant,left
+hot dog guy,pawn
+cell phone sales person,thing
+boom box,temp
+holly's mom,friend
+holly's dad,holly
+deangelo,michael
+denagelo,whispering
+darryl's sister,hey
+audience,speech
+together,showtime
 abe,erin
-Rory,bring
-DeAgnelo,andy
-Jordan,yeah
-Dwight [on phone],mose
-Mose [on phone],aaaaahhhhh
-All but Oscar,god
-Darryl and Angela,Does not use words
-Fred Henry,absolutelyi
-Fred,plan
-Warren Buffett,salary
-Warren,mileage
-Robert California,dwight
-Merv Bronte,cafe
-Merv,job
-Nellie Bertram,cubicle
-Nellie,dwight
-Finger Lakes Guy,finger
-Pam as fourth-biggest client,comedic
-Pam as ninth-biggest client,paper
-Darryl & Oscar,expense
-Tattoo Artist,coming
-Female Applicant,crew
-Male Applicant 1,wait
-Male Applicant 2,drivers
-Gideon,north
-Bruce,Does not use words
-Dwight, Erin, Jim & Kevin,dwight
-Walter,uh
-Ellen,thought
-Walter Jr,andys
-Andy & Walter,knew
-Walter & Walter Jr,singing
-Erin's Cell Phone,call
-Bert,yeah
-Gabe/Kelly/Toby,dem
-Andy/Pam,time
-Andy/Stanley,singing
-Val,yeah
-Warehouse Crew,thirrrrthird
-Cathy,jim
-Offscreen,good
-Curtis,yeah
-Drummer,eagles
-Pam and Kelly,crotch
-Old Man,uh
-Andy and Darryl,baby
-Darryl and Kevin,day
-Park Ranger,great
-Chelsea,taps
-Archivist,schrute
-Narrator,battle
-Soldier,dearest
-Amanda,men
-Susan,robert
-Andy/Oscar,mistake
-Bob's Secretary,bob
-Mrs. California,insulting
-Host,einsteins
-Queerenstein Bears,whoo
-Oscar's friend,whoo
-Stu,grab
-Stonewall Host,kevin
-Meredith & Kelly,threeteam
-Einsteins,whoo
-Senator Lipton,call
-Ernesto,pulls
-Officer Foley,understand
-Andy, Darryl & Officer Foley,stream
-Saleswoman,Does not use words
-Emergency Operator,sir
-Paramedic,operation
-Donna Muraski,andrew
-Wally Amos,aloha
-Angela/Pam,unbelievable
-Brandon,val
-Blogger,yeah
-Blogger 2,perfect
-Lady Blogger,patty
-Patty,Does not use words
-Old Lady,costco
-Others,yeah
-Elderly Woman,rises
-Irene,takes
-Alonzo,good
-Glenn,postage
-Erin and Irene,screaming
-Kevin & Meredith,unison
-Lauren,andy
-Party guests,pop
-Magician,huh
-Ravi,ryan
-Robert & Creed,unison
-Wrangler,turn
-Senator,oscar
-Vet,daisy
-Harry,stay
-Mr. Ramish,paper
-Calvin,man
-Off-camera,yeah
-Rafe,iceman
-Fake Jim,dwight
-Voicemail,enter
-Nellie and Pam,giggling
-Group: Dunder Mifflin!
-Andy: Andy Bernard presents: Summer Softball Epic Fails! [Kevin swings bat on screen, fart noise follows] Fail. [repeats] Fail,kevin
+rory,bring
+deagnelo,andy
+jordan,yeah
+dwight [on phone],mose
+mose [on phone],aaaaahhhhh
+all but oscar,god
+fred henry,absolutelyi
+fred,plan
+warren buffett,salary
+warren,mileage
+robert california,dwight
+merv bronte,cafe
+merv,job
+nellie bertram,cubicle
+nellie,dwight
+finger lakes guy,finger
+pam as fourth-biggest client,comedic
+pam as ninth-biggest client,paper
+tattoo artist,coming
+female applicant,crew
+male applicant 1,wait
+male applicant 2,drivers
+gideon,north
+bruce,Does not use words
+ erin,dwight
+walter,uh
+ellen,thought
+walter jr,andys
+erin's cell phone,call
+bert,yeah
+val,yeah
+warehouse crew,thirrrrthird
+cathy,jim
+offscreen,good
+curtis,yeah
+drummer,eagles
+old man,uh
+park ranger,great
+chelsea,taps
+archivist,schrute
+narrator,battle
+soldier,dearest
+amanda,men
+susan,robert
+bob's secretary,bob
+mrs. california,insulting
+host,einsteins
+queerenstein bears,whoo
+oscar's friend,whoo
+stu,grab
+stonewall host,kevin
+einsteins,whoo
+senator lipton,call
+ernesto,pulls
+officer foley,stream
+saleswoman,Does not use words
+emergency operator,sir
+paramedic,operation
+donna muraski,andrew
+wally amos,aloha
+brandon,val
+blogger,yeah
+blogger 2,perfect
+lady blogger,patty
+patty,Does not use words
+elderly woman,rises
+irene,takes
+alonzo,good
+glenn,postage
+lauren,andy
+party guests,pop
+magician,huh
+ravi,ryan
+wrangler,turn
+senator,oscar
+vet,daisy
+harry,stay
+mr. ramish,paper
+calvin,man
+off-camera,yeah
+rafe,iceman
+fake jim,dwight
+voicemail,enter
+group: dunder mifflin!
+andy: andy bernard presents: summer softball epic fails! [kevin swings bat on screen,kevin
+ fart noise follows] fail. [repeats] fail,kevin
 [repeats]
-Andy: Fail,oscar
-[Clark and Pete are shown on screen]
-Video Andy: Hey, I'm Pete, puberty is such a drag, man. And I'm Clark! I like to eat toilet paper. [Clark and Pete wave at camera] We fail! [Video shows memorial of Jerry,andy
-Phyllis, Kevin & Stanley,pies
-HCT,singing
-HCT Member #1,aids
-HCT Member #2,thought
-Broccoli Rob,pipes
-Businessman #1,workspace
-Businessman #2,graphic
-Businessman #3,guys
-HCT Member #3,broccoli
-White,hope
-Boat Guy,rig
-Walt Jr.,god
-Senator Liptop,oscar
-Guys in breakroom,laughter
-Business partner,phone
-Molly,god
-Colin,phone
-Trevor,gonna
-Julius Irving,hope
-New Instant Message,stone
-Suit Store Father,son
-Athlead Employee,darryl
-Dennis,reach
-Wade,Does not use words
-Suit Store Son,hey
-Female Athlead Employee,science
-3rd Athlead Employee,work
-4th Athlead Employee,laywer
-Co-worker,jim
-Co-worker #2,uh
-Mr. Romanko,rage
-Dance Teacher,ladies
-Ballerinas,Does not use words
-Parent in Audience,Does not use words
-Parent in audience #2,rude
-Parent in audience #1,rude
-Investor,listen
-Lonnie,hey
-Fast Food Worker,milkshake
-Drive Thru Customer,fire
-Brian,yeah
-Cameraman,brian
-Rolf,rolf
-Gabor,mymy
-Zeke,mose
-Melvina,babysitter
-Wolf,paintball
-Sensei Ira,Does not use words
-Pam & Dwight,laughs
-Frank,butts
-Party Announcer,ladies
-Party Guest,close
-Party Photographer,uh
-Party Waiter,sean
-Nail stylist 1,tiny
-Nail stylist 2,clark
-Nail manager,men
-Shirley,big
-Athlead Coworker,hey
-Roger,heard
-Alice,marketing
-Oscar's Computer,grandfather
-Jeb,soil
-German Minister,woman
-Fannie,dwight
-Henry,hat
-Esther,dwight
-Aunt Shirley,fannie
-Cameron,dwight
-Promo Voice,michael
-Ryan Howard,eat
-Mr. Ruger,fine
-Promo Announcer,speaks
-Ruger Sister 1,manipulates
-Salesmen,lift
-Ruger Sister 2,buy
-Angela & Oscar,honey
-Reporter #1,gay
-Reporter #2,question
-Mrs. Davis,stanley
-Phillip,mama
-Carla Fern,andy
-Director,rolling
-Producer,yeah
-Bob Vance, Vance Refrigeration,baby
-Production Assistant,andy
-Sensei,dwight
-Philip,mama
-Check-in guy,ahead
-Casey,casey
-Mark McGrath,cappella
-Jim & Dwight,sea
-Camera Crew,man
-People in line,hey
-Santigold,gabriella
-Aaron Rodgers,man
-Clay Aiken,hear
-CameraMan,bonus
-Malcolm,love
-Casey Dean,sit
-Bill Hader,crying
-Seth Mayers,baby
-Dakota,symbol
-Stripper,boys
-Jakey,heard
-Man 1,feel
-Woman 1,jim
-Woman 2,jim
-Man 2,pam
-Moderator,wonderful
-Man 3,find
-Woman 3,wanna
-Woman 4,jim
-Joan,erin
-Minister,doves
-Carol Stills,pam
+andy: fail,oscar
+[clark,andy
+pete are shown on screen]
+video andy: hey,andy
+ i'm pete,andy
+ puberty is such a drag,andy
+ man. and i'm clark! i like to eat toilet paper. [clark,andy
+pete wave at camera] we fail! [video shows memorial of jerry,andy
+hct,singing
+hct member #1,aids
+hct member #2,thought
+broccoli rob,pipes
+businessman #1,workspace
+businessman #2,graphic
+businessman #3,guys
+hct member #3,broccoli
+white,hope
+boat guy,rig
+walt jr.,god
+senator liptop,oscar
+guys in breakroom,laughter
+business partner,phone
+molly,god
+colin,phone
+trevor,gonna
+julius irving,hope
+new instant message,stone
+suit store father,son
+athlead employee,darryl
+dennis,reach
+wade,Does not use words
+suit store son,hey
+female athlead employee,science
+3rd athlead employee,work
+4th athlead employee,laywer
+co-worker,jim
+co-worker #2,uh
+mr. romanko,rage
+dance teacher,ladies
+ballerinas,Does not use words
+parent in audience,Does not use words
+parent in audience #2,rude
+parent in audience #1,rude
+investor,listen
+lonnie,hey
+fast food worker,milkshake
+drive thru customer,fire
+brian,yeah
+cameraman,brian
+rolf,rolf
+gabor,mymy
+zeke,mose
+melvina,babysitter
+wolf,paintball
+sensei ira,Does not use words
+frank,butts
+party announcer,ladies
+party guest,close
+party photographer,uh
+party waiter,sean
+nail stylist 1,tiny
+nail stylist 2,clark
+nail manager,men
+shirley,big
+athlead coworker,hey
+roger,heard
+alice,marketing
+oscar's computer,grandfather
+jeb,soil
+german minister,woman
+fannie,dwight
+henry,hat
+esther,dwight
+aunt shirley,fannie
+cameron,dwight
+promo voice,michael
+ryan howard,eat
+mr. ruger,fine
+promo announcer,speaks
+ruger sister 1,manipulates
+salesmen,lift
+ruger sister 2,buy
+reporter #1,gay
+reporter #2,question
+mrs. davis,stanley
+phillip,mama
+carla fern,andy
+director,rolling
+producer,yeah
+ vance refrigeration,baby
+production assistant,andy
+sensei,dwight
+philip,mama
+check-in guy,ahead
+casey,casey
+mark mcgrath,cappella
+camera crew,man
+people in line,hey
+santigold,gabriella
+aaron rodgers,man
+clay aiken,hear
+malcolm,love
+casey dean,sit
+bill hader,crying
+seth mayers,baby
+dakota,symbol
+stripper,boys
+jakey,heard
+man 1,feel
+woman 1,jim
+woman 2,jim
+man 2,pam
+moderator,wonderful
+man 3,find
+woman 3,wanna
+woman 4,jim
+joan,erin
+minister,doves
+carol stills,pam
