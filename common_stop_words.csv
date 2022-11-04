@@ -74,9 +74,6 @@ actress,again
 all,the
 liquor store clerk,it
 bob vance,you
- meredith,one
- michael,one
- kevin,the
 captain jack,the
 brenda,i
 billy merchant,the
@@ -134,7 +131,6 @@ karen,you
 jerome bettis,all
 ted,ill
 waiter,you
- josh,hi
 ,if
 evan,you
 alan,you
@@ -234,9 +230,6 @@ mr. figaro,never
 ad guy 1,that
 ad guy 2,to
 david wallace,to
- creed,the
- kelly,the
- darryl,or
 michael's ad,a
 rolando,on
 ben,the
@@ -292,7 +285,6 @@ michael [on phone],miss
 pam [on phone],not
 hank [the security guard],me
 guy in audience,Does not use stop words
- holly,if
 tom,a
 pete,to
 mother,are
@@ -331,7 +323,6 @@ warehouse michael,i
 julia,i
 a.j.,why
 phone salesman,i
- pam,you
 blood drive worker,a
 blood girl,i
 lynn,i
@@ -364,7 +355,6 @@ man from buffalo,over
 woman from buffalo,is
 female intern,there
 maurie,you
- jim,a
 megan,you
 gwenneth,definitely
 front desk clerk,im
@@ -430,7 +420,6 @@ warehouse guy 1,were
 warehouse guy 2,see
 reid,to
 night cleaning crew,sorry
- oscar,Does not use stop words
 miichael,thank
 julie,i
 hide,i
@@ -496,8 +485,6 @@ bookstore employee,you
 dj,you
 david brent,a
 older guy,i
- stanley,Does not use stop words
- dwight,Does not use stop words
 younger guy,like
 older woman,hi
 professor powell,what
@@ -538,7 +525,6 @@ male applicant 1,so
 male applicant 2,like
 gideon,a
 bruce,made
- erin,a
 walter,you
 ellen,were
 walter jr,and
@@ -599,15 +585,15 @@ fake jim,im
 voicemail,please
 group: dunder mifflin!
 andy: andy bernard presents: summer softball epic fails! [kevin swings bat on screen,Does not use stop words
- fart noise follows] fail. [repeats] fail,Does not use stop words
+fart noise follows] fail. [repeats] fail,Does not use stop words
 [repeats]
 andy: fail,Does not use stop words
 [clark,Does not use stop words
 pete are shown on screen]
 video andy: hey,Does not use stop words
- i'm pete,Does not use stop words
- puberty is such a drag,Does not use stop words
- man. and i'm clark! i like to eat toilet paper. [clark,Does not use stop words
+i'm pete,Does not use stop words
+puberty is such a drag,Does not use stop words
+man. and i'm clark! i like to eat toilet paper. [clark,Does not use stop words
 pete wave at camera] we fail! [video shows memorial of jerry,Does not use stop words
 hct,ill
 hct member #1,did
@@ -690,7 +676,7 @@ phillip,Does not use stop words
 carla fern,you
 director,the
 producer,your
- vance refrigeration,you
+vance refrigeration,you
 production assistant,so
 sensei,i
 philip,Does not use stop words
