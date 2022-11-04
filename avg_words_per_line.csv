@@ -1,797 +1,722 @@
 Name, avg_words_per_line
-Michael,4
-Jim,3
-Pam,3
-Dwight,4
-Jan,3
-Michel,4
-Todd Packer,5
-Phyllis,2
-Stanley,3
-Oscar,3
-Angela,3
-Kevin,3
-Ryan,3
-Man,2
-Roy,2
-Documentary Crew Member,4
-Mr. Brown,3
-Toby,3
-Kelly,3
-Meredith,3
-Travel Agent,5
-Man on Phone,4
-Everybody,3
-Lonny,2
-Darryl,3
-Teammates,1
-Michael and Dwight,3
-Warehouse worker,2
-Madge,1
-Worker,0
-Packer,3
-Warehouse Worker,3
-Katy,1
-Guy at bar,2
-Other Guy at Bar,3
-Guy At Bar,3
-Pam and Jim,2
-Employee,4
-Chili's Employee,14
-Waitress,1
-Manager,2
-Kevin's computer,2
-Warehouse Guy,0
-Warehouse guy,1
-Warehouse guys,5
-Video,3
-Man in Video,10
-Actor,2
-Redheaded Actress,3
-Mr. O'Malley,3
-Albiny,6
-Pam's Mom,0
-Carol,2
-Bill,3
-Everyone,1
-Crowd,1
-song,4
-Song,1
-Dwight and Michael,4
-Sherri,1
-Creed,4
-Devon,3
-Children,6
-Kid,1
-Vance Refrigeration Worker #1,4
-Vance Refrigeration Worker #2,3
-Hank the Security Guard,1
-Ira,3
-Ryan's Voicemail,11
-Master,3
-Alyssa,2
-Christian,2
-Hostess,1
-Michael and Christian,2
-Sadiq (IT guy),1
-Mark,9
-Improv Teacher,3
-Mary-Beth,2
-Girl acting Pregnant,6
-Actress,0
-Michael and Jim,9
-Kevin & Oscar,4
-All,2
-Liquor Store Clerk,2
-JIm,1
-Bob Vance,2
-Phyllis, Meredith, Michael, Kevin,1
-Captain Jack,4
-Brenda,1
-Darryl and Katy,5
-Jim and Pam,1
-Billy Merchant,3
-Doctor,2
-Lab Tech,4
-Dana,1
-Hooter's Girls,12
-Phylis,2
-Gil,2
-Pam and others,5
-Ed,2
-Todd,4
-Jim's voicemail,2
-Women,5
-Guy,2
-Men,2
-Group chant,4
-All the Men,4
-Dwight and Roy,2
-Delivery man,1
-Craig,3
-Josh,2
-David,3
-Dan,0
-Receptionist,2
-Overhead,8
-Speaker,6
-Jim and Dwight,2
-Melissa,2
-Sasha,2
-Abby,1
-Jake,1
-The Kids,2
-Kids,2
-Miss Trudy,5
-Edward R. Meow,2
-Chet,1
-Young Michael,2
-Delivery Woman,1
-Delivery Boy,3
-Office Staff,16
-Store Employee,3
-Pam/Jim,2
-Linda,1
-Hank,2
-Sheriff,2
-I.D. Photographer,0
-Photographer,3
-Anglea,6
-Female worker,1
-Billy's Girlfriend,1
-Billy,2
-Dealer,3
-Bob,2
-Meredith's Vet,2
-Andy,4
-Karen,3
-Jerome Bettis,0
-Ted,0
-Waiter,2
-Jim, Josh, and Dwight,1
-Evan,2
-Alan,5
-Ryan and others,2
-Hannah,2
-Announcer,4
-Pretzel guy,11
-Cousin Mose,3
-Tony,1
-Server,2
-Girls,6
-Kelly's Mom,2
-Kelly's Father,1
-Young Man,2
-Andy and Jim,3
-Mrs. Kapoor,2
-Mr. Kapoor,1
-M ichael,4
-Dwight:,8
-Martin,4
-Male voice,2
-Michael & Dwight,3
-Andy & Michael,4
-Chef,2
-Woman at bar,2
-Cindy,1
-Second Cindy,1
-Other waitress,1
-Andy and Michael,22
-Both,3
-Someone,1
-Harvey,3
-Buyer,2
-Kenny,2
-Julius,2
-Phone,8
-Staples Guy,5
-MIchael,21
-Lady,3
-Paris,2
-Marcy,1
-Ben Franklin,3
-Elizabeth,2
-Priest,4
-Uncle Al,1
-Randy,2
-Unknown,0
-College Student,1
-Business Student #1,5
-Business Student #2,3
-Business Student #3,1
-Woman,1
-Artist,1
-Student 1,4
-Student 2,1
-Student 3,7
-Rachel,1
-Dan Gore,0
-Bartender,2
-Child,0
-Hunter,1
-Darry,2
-Micheal,2
-Larry,1
-Chad Lite,2
-Jamie,1
-Barbara,2
-School Official,1
-Barbara Allen,0
-Spanish Teacher,1
-Denise,1
-Group,2
-IT Tech Guy,7
-Nurse,2
-Intern,3
-Pediatrician,8
-Robert Dunder,4
-Amy,3
-GPS,2
-Larry Myers,1
-Ex-client,1
-Voice of Thomas Dean,4
-sAndy,3
-DunMiff/sys,3
-DwightKSchrute,2
-Tech Guy,3
-Angels,0
-Pizza guy,1
-Voice #1 on phone,1
-Voice #2 on phone,2
-Micahel,2
-Michae,1
-Nick,5
-Mose,2
-Co-Worker 1,1
-Stanely,1
-Micael,0
-Vikram,2
-Co-Worker 2,3
-Co-Worker 3,0
-Mr. Figaro,1
-Oscar and Stanley,1
-Ad guy 1,3
-Ad guy 2,1
-David Wallace,3
-Andy, Creed, Kevin, Kelly, Darryl,11
-Andy, Creed, Kevin, Kelly,4
-Michael's Ad,68
-Rolando,4
-Ben,2
-Security guard,8
-Lester,5
-Diane Kelly,5
-Diane,4
-Deposition Reporter,9
-Council,15
-Hunter's CD,10
-Officer 1,3
-Officer 2,3
-Officer,1
-Neighbor,2
-Wendy's phone operator,1
-Margaret,1
-Coffee shop worker,10
-Jan [on phone],5
-W.B. Jones,1
-Paul Faust,2
-Bill Cress,2
-Paul,4
-Michael/Dwight,19
-Troy,2
-Girl in Club,1
-Tall Girl #1,2
-All Girls,1
-Tall Girl #2,0
-Girl in 2nd club,2
-Cleaning lady,1
-Michael and Darryl,1
-Phil Maguire,3
-Phil,4
-Justin,0
-Angela and Dwight,10
-Maguire,3
-Woman on mic,8
-Graphics guy,4
-Brad,2
-Air Force recruiter,4
-Holly,2
-Woman over speakerphone,1
-Vance Refrigeration guy,1
-Holy,2
-Co-workers,2
-Ronnie,1
-Professor,9
-Friend,3
-JIM9334 [screen name],2
-Receptionitis15 [screen name],2
-JIM9334,6
-Receptionitis15,3
-Michael & Holly,7
-Dight,1
-Kendall,5
-Michael [on phone],2
-Pam [on phone],2
-Man on phone,5
-Hank [the security guard],10
-Guy in audience,1
-Michael and Holly,5
-Michael, Holly, and Darryl,4
-Tom,2
-Pete,3
-Holly & Darryl,2
-Holly & Michael,9
-Mother,1
-Alex,5
-Customer,1
-Kevin & Andy,1
-Stanley & Phyllis,2
-Stewardess,1
-Beth,1
-Concierge,5
-Marie,2
-Guy at table,0
-Concierge Marie,1
-Client,1
-Dacvid Walalce,3
-David Wallcve,2
-Dacvid Wallace,1
-Leo,0
-Vance Refrigeration Guy,4
-Police Officer 1,1
-Police Officer 2,2
-Guy buying doll,3
-Rehab Nurse,0
-Everyone watching,0
-Entire Prince family,0
-Prince Grandfather,2
-Entire office,1
-Prince,4
-Prince Granddaughter,0
-Prince Grandmother,3
-Prince Son,6
-Phyllis and Creed,5
-Lawyer,3
-CPR trainer,6
-CPR Trainer,1
-Rose,4
-Jessica Alba,2
-Lily,3
-Sam,7
-Warehouse Michael,6
-Julia,1
-A.J.,1
-Phone Salesman,1
-Jim, Pam, Michael and Dwight,1
-Blood Drive Worker,2
-Blood Girl,1
-Lynn,0
-Blonde,2
-Eric,3
-Girl,5
-Charles,2
-Stephanie,2
-Employees,9
-Isaac,2
-Angela and Kelly,6
-Supervisor,3
-Michal,5
-Nana,1
-Chares,2
-Old Woman,1
-Erin,3
-Dwight and Erin,5
-Dwight and Andy,7
-Michael, Pam & Ryan,13
-Secretary,2
-Automated phone voice,6
-Mr. Schofield,1
-Financial Guy,3
-Ty,3
-Jessica,1
-Vance Refrigeration Guy 1,1
-Vance Refrigeration Guy 2,0
-VRG 1,1
-VRG 2,1
-Rolph,3
-AJ,1
-Man from Buffalo,5
-Woman from Buffalo,1
-Dwight & Andy,8
-Female Intern,3
-Female intern,2
-Maurie,3
-Dwight, Jim & Pam,3
-Jim & Pam,0
-Megan,2
-Gwenneth,0
-Front Desk Clerk,1
-Mr. Halpert,0
-Mema,4
-Mr. Beesly,4
-Little Girl,2
-Penny,2
-Isabel,2
-Hotel Employee,3
-Hotel Manager,4
-Pam's mom,1
-Tom Halpert,3
-Pete Halpert,2
-Tom and Pete,1
-Pam's dad,2
-Grotti,4
-Andy and Dwight,3
-Credit card rep,11
-Rep,3
-Various,3
-Keena Gifford,2
-Helene,3
-David Wallace's Secretary,2
-Voice on CD player,16
-Limo Driver,2
-Laurie,1
-Registrar,3
-Security,2
-Woman in line,1
-Man in line,0
-Shareholder,1
-Female Shareholder,1
-Second Shareholder,4
-Third Shareholder,4
-Fourth Shareholder,2
-O'Keefe,1
-Mikela,1
-Students,6
-Teacher,8
-Lefevre,3
-Zion,4
-Deliveryman,5
-Michael and Erin,12
-Daryl,3
-Office,1
-Kelly and Erin,5
-Matt,1
-Computron,3
-Fake Stanley,0
-Gabe,5
-Andy & Erin,13
-Christian Slater,23
-Jo Bennett,7
-Jo,5
-Jerry,2
-Teddy Wallace,4
-Mrs. Wallace,2
-Teddy,1
-Dwight, Jim and Michael,0
-Policeman,6
-Hospital employee,2
-(Pam's mom) Heleen,0
-Kathy,2
-Dale,0
-Clark,3
-Isabelle,2
-D,5
-Warehouse guy 1,1
-Warehouse guy 2,0
-Reid,4
-Night cleaning crew,5
-Meredith, Creed, Oscar and Matt,2
-Miichael,0
-Julie,1
-Hide,6
-Bar Manager,2
-Bouncer,1
-Girl at table,0
-Cookie Monster,9
-Dwight.,1
-Hayworth's waiter,1
-Oscar's voice from the computer,8
-Donna,2
-Michael and Donna,5
-Mihael,0
-Old lady,4
-Glen,1
-Gym Instructor,2
-Gym instructor,3
-Dwight and Angela,2
-Shane,1
-Reporter,3
-Realtor,5
-Luke,3
-Window treatment guy,2
-Angel,1
-Salesman,1
-Usher,5
-Shelby,2
-Sweeney Todd,4
-Mexican Man,2
-Son,1
-Nate,4
-Employees except Dwight,0
-Astrid,1
-Carroll,1
-Carrol,2
-Danny,2
-Steve,1
-Darryl and Andy,10
-Church congregation,3
-Pastor,10
-Female church member,5
-Male church member,2
-Female church member [to Michael],2
-Doug [church member],4
-Doug,3
-Mee-Maw,7
-MeeMaw,2
-Carla,3
-Jim's Dad,5
-Bus driver,2
-Michael and Andy,4
-Another guy,5
-Radio,16
-Cece,1
-TV,4
-Meridith,2
-Robotic Voice,4
-Ryan and Michael,1
-Phyliss,4
-Dwight & Nate,4
-Passer-by,1
-Bass Player,1
-Justine,1
-Jada,2
-Robert,5
-Darrly,3
-Member,1
-Video Michael,3
-Bookstore employee,3
-DJ,3
-David Brent,23
-Older guy,5
-Phyllis, Stanley, Dwight,1
-Younger Guy,6
-Older Woman,2
-Professor Powell,4
-Ryan and Kelly,1
-Helen,3
-Attendant,1
-Hot Dog Guy,1
-Cell Phone Sales Person,3
-Boom Box,10
-Andy and Erin,4
-Holly's Mom,1
-Holly's Dad,1
-Deangelo,5
-Deangelo/Michael,2
-Denagelo,2
-Darryl's sister,5
-DeAngelo,6
-Audience,1
-Together,1
-Erin and Kelly,2
+michael,4
+jim,3
+pam,3
+dwight,4
+jan,3
+michel,4
+todd packer,5
+phyllis,2
+stanley,3
+oscar,3
+angela,3
+kevin,3
+ryan,3
+man,2
+roy,2
+documentary crew member,4
+mr. brown,3
+toby,3
+kelly,3
+meredith,3
+travel agent,5
+man on phone,4
+everybody,3
+lonny,2
+darryl,3
+teammates,1
+warehouse worker,2
+madge,1
+worker,0
+packer,3
+katy,1
+guy at bar,2
+other guy at bar,3
+employee,4
+chili's employee,14
+waitress,1
+manager,2
+kevin's computer,2
+warehouse guy,0
+warehouse guys,5
+video,3
+man in video,10
+actor,2
+redheaded actress,3
+mr. o'malley,3
+albiny,6
+pam's mom,1
+carol,2
+bill,3
+everyone,1
+crowd,1
+song,1
+sherri,1
+creed,4
+devon,3
+children,6
+kid,1
+vance refrigeration worker #1,4
+vance refrigeration worker #2,3
+hank the security guard,1
+ira,3
+ryan's voicemail,11
+master,3
+alyssa,2
+christian,2
+hostess,1
+sadiq (it guy),1
+mark,9
+improv teacher,3
+mary-beth,2
+girl acting pregnant,6
+actress,0
+all,2
+liquor store clerk,2
+bob vance,2
+ meredith,1
+ michael,1
+ kevin,4
+captain jack,4
+brenda,1
+billy merchant,3
+doctor,2
+lab tech,4
+dana,1
+hooter's girls,12
+phylis,2
+gil,2
+others,2
+ed,2
+todd,4
+jim's voicemail,2
+women,5
+guy,2
+men,2
+group chant,4
+all the men,4
+delivery man,1
+craig,3
+josh,2
+david,3
+dan,0
+receptionist,2
+overhead,8
+speaker,6
+melissa,2
+sasha,2
+abby,1
+jake,1
+the kids,2
+kids,2
+miss trudy,5
+edward r. meow,2
+chet,1
+young michael,2
+delivery woman,1
+delivery boy,3
+office staff,16
+store employee,3
+linda,1
+hank,2
+sheriff,2
+i.d. photographer,0
+photographer,3
+anglea,6
+female worker,1
+billy's girlfriend,1
+billy,2
+dealer,3
+bob,2
+meredith's vet,2
+andy,4
+karen,3
+jerome bettis,0
+ted,0
+waiter,2
+ josh,1
+,2
+evan,2
+alan,5
+hannah,2
+announcer,4
+pretzel guy,11
+cousin mose,3
+tony,1
+server,2
+girls,6
+kelly's mom,2
+kelly's father,1
+young man,2
+mrs. kapoor,2
+mr. kapoor,1
+m ichael,4
+dwight:,8
+martin,4
+male voice,2
+chef,2
+woman at bar,2
+cindy,1
+second cindy,1
+other waitress,1
+both,3
+someone,1
+harvey,3
+buyer,2
+kenny,2
+julius,2
+phone,8
+staples guy,5
+lady,3
+paris,2
+marcy,1
+ben franklin,3
+elizabeth,2
+priest,4
+uncle al,1
+randy,2
+unknown,0
+college student,1
+business student #1,5
+business student #2,3
+business student #3,1
+woman,1
+artist,1
+student 1,4
+student 2,1
+student 3,7
+rachel,1
+dan gore,0
+bartender,2
+child,0
+hunter,1
+darry,2
+micheal,2
+larry,1
+chad lite,2
+jamie,1
+barbara,2
+school official,1
+barbara allen,0
+spanish teacher,1
+denise,1
+group,2
+it tech guy,7
+nurse,2
+intern,3
+pediatrician,8
+robert dunder,4
+amy,3
+gps,2
+larry myers,1
+ex-client,1
+voice of thomas dean,4
+sandy,3
+dunmiff,3
+sys,3
+dwightkschrute,2
+tech guy,3
+angels,0
+pizza guy,1
+voice #1 on phone,1
+voice #2 on phone,2
+micahel,2
+michae,1
+nick,5
+mose,2
+co-worker 1,1
+stanely,1
+micael,0
+vikram,2
+co-worker 2,3
+co-worker 3,0
+mr. figaro,1
+ad guy 1,3
+ad guy 2,1
+david wallace,3
+ creed,4
+ kelly,5
+ darryl,11
+michael's ad,68
+rolando,4
+ben,2
+security guard,8
+lester,5
+diane kelly,5
+diane,4
+deposition reporter,9
+council,15
+hunter's cd,10
+officer 1,3
+officer 2,3
+officer,1
+neighbor,2
+wendy's phone operator,1
+margaret,1
+coffee shop worker,10
+jan [on phone],5
+w.b. jones,1
+paul faust,2
+bill cress,2
+paul,4
+troy,2
+girl in club,1
+tall girl #1,2
+all girls,1
+tall girl #2,0
+girl in 2nd club,2
+cleaning lady,1
+phil maguire,3
+phil,4
+justin,0
+maguire,3
+woman on mic,8
+graphics guy,4
+brad,2
+air force recruiter,4
+holly,2
+woman over speakerphone,1
+vance refrigeration guy,3
+holy,2
+co-workers,2
+ronnie,1
+professor,9
+friend,3
+jim9334 [screen name],2
+receptionitis15 [screen name],2
+jim9334,6
+receptionitis15,3
+dight,1
+kendall,5
+michael [on phone],2
+pam [on phone],2
+hank [the security guard],10
+guy in audience,1
+ holly,4
+tom,2
+pete,2
+mother,1
+alex,5
+customer,1
+stewardess,1
+beth,1
+concierge,5
+marie,2
+guy at table,0
+concierge marie,1
+client,1
+dacvid walalce,3
+david wallcve,2
+dacvid wallace,1
+leo,0
+police officer 1,1
+police officer 2,2
+guy buying doll,3
+rehab nurse,0
+everyone watching,0
+entire prince family,0
+prince grandfather,2
+entire office,1
+prince,4
+prince granddaughter,0
+prince grandmother,3
+prince son,6
+lawyer,3
+cpr trainer,2
+rose,4
+jessica alba,2
+lily,3
+sam,7
+warehouse michael,6
+julia,1
+a.j.,1
+phone salesman,1
+ pam,5
+blood drive worker,2
+blood girl,1
+lynn,0
+blonde,2
+eric,3
+girl,5
+charles,2
+stephanie,2
+employees,9
+isaac,2
+supervisor,3
+michal,5
+nana,1
+chares,2
+old woman,1
+erin,3
+secretary,2
+automated phone voice,6
+mr. schofield,1
+financial guy,3
+ty,3
+jessica,1
+vance refrigeration guy 1,1
+vance refrigeration guy 2,0
+vrg 1,1
+vrg 2,1
+rolph,3
+aj,1
+man from buffalo,5
+woman from buffalo,1
+female intern,3
+maurie,3
+ jim,7
+megan,2
+gwenneth,0
+front desk clerk,1
+mr. halpert,0
+mema,4
+mr. beesly,4
+little girl,2
+penny,2
+isabel,2
+hotel employee,3
+hotel manager,4
+tom halpert,3
+pete halpert,2
+pam's dad,2
+grotti,4
+credit card rep,11
+rep,3
+various,3
+keena gifford,2
+helene,3
+david wallace's secretary,2
+voice on cd player,16
+limo driver,2
+laurie,1
+registrar,3
+security,2
+woman in line,1
+man in line,0
+shareholder,1
+female shareholder,1
+second shareholder,4
+third shareholder,4
+fourth shareholder,2
+o'keefe,1
+mikela,1
+students,6
+teacher,8
+lefevre,3
+zion,4
+deliveryman,5
+daryl,3
+office,1
+matt,1
+computron,3
+fake stanley,0
+gabe,5
+christian slater,23
+jo bennett,7
+jo,5
+jerry,2
+teddy wallace,4
+mrs. wallace,2
+teddy,1
+policeman,6
+hospital employee,2
+(pam's mom) heleen,0
+kathy,2
+dale,0
+clark,3
+isabelle,2
+d,5
+warehouse guy 1,1
+warehouse guy 2,0
+reid,4
+night cleaning crew,5
+ oscar,2
+miichael,0
+julie,1
+hide,6
+bar manager,2
+bouncer,1
+girl at table,0
+cookie monster,9
+dwight.,1
+hayworth's waiter,1
+oscar's voice from the computer,8
+donna,2
+mihael,0
+old lady,3
+glen,1
+gym instructor,3
+shane,1
+reporter,3
+realtor,5
+luke,3
+window treatment guy,2
+angel,1
+salesman,1
+usher,5
+shelby,2
+sweeney todd,4
+mexican man,2
+son,1
+nate,4
+employees except dwight,0
+astrid,1
+carroll,1
+carrol,2
+danny,2
+steve,1
+church congregation,3
+pastor,10
+female church member,5
+male church member,2
+female church member [to michael],2
+doug [church member],4
+doug,3
+mee-maw,7
+meemaw,2
+carla,3
+jim's dad,5
+bus driver,2
+another guy,5
+radio,16
+cece,1
+tv,4
+meridith,2
+robotic voice,4
+phyliss,4
+passer-by,1
+bass player,1
+justine,1
+jada,2
+robert,5
+darrly,3
+member,1
+video michael,3
+bookstore employee,3
+dj,3
+david brent,23
+older guy,5
+ stanley,1
+ dwight,1
+younger guy,6
+older woman,2
+professor powell,4
+helen,3
+attendant,1
+hot dog guy,1
+cell phone sales person,3
+boom box,10
+holly's mom,1
+holly's dad,1
+deangelo,5
+denagelo,2
+darryl's sister,5
+audience,1
+together,1
 abe,9
-Rory,3
-DeAgnelo,9
-Jordan,1
-Dwight [on phone],2
-Mose [on phone],1
-All but Oscar,1
-Darryl and Angela,0
-Fred Henry,7
-Fred,3
-Warren Buffett,1
-Warren,5
-Robert California,6
-Merv Bronte,4
-Merv,6
-Nellie Bertram,2
-Nellie,4
-Finger Lakes Guy,21
-Pam as fourth-biggest client,4
-Pam as ninth-biggest client,4
-Darryl & Oscar,2
-Tattoo Artist,2
-Female Applicant,1
-Male Applicant 1,2
-Male Applicant 2,2
-Gideon,7
-Bruce,0
-Dwight, Erin, Jim & Kevin,20
-Walter,2
-Ellen,1
-Walter Jr,3
-Andy & Walter,1
-Walter & Walter Jr,11
-Erin's Cell Phone,2
-Bert,2
-Gabe/Kelly/Toby,11
-Andy/Pam,8
-Andy/Stanley,1
-Val,1
-Warehouse Crew,0
-Cathy,2
-Offscreen,2
-Curtis,5
-Drummer,2
-Pam and Kelly,1
-Old Man,1
-Andy and Darryl,2
-Darryl and Kevin,1
-Park Ranger,1
-Chelsea,4
-Archivist,3
-Narrator,10
-Soldier,10
-Amanda,38
-Susan,2
-Andy/Oscar,2
-Bob's Secretary,3
-Mrs. California,1
-Host,7
-Queerenstein Bears,1
-Oscar's friend,1
-Stu,2
-Stonewall Host,9
-Meredith & Kelly,3
-Einsteins,1
-Senator Lipton,2
-Ernesto,3
-Officer Foley,4
-Andy, Darryl & Officer Foley,11
-Saleswoman,0
-Emergency Operator,4
-Paramedic,1
-Donna Muraski,4
-Wally Amos,3
-Angela/Pam,1
-Brandon,2
-Blogger,1
-Blogger 2,5
-Lady Blogger,3
-Patty,0
-Old Lady,3
-Others,1
-Elderly Woman,2
-Irene,3
-Alonzo,6
-Glenn,2
-Erin and Irene,4
-Kevin & Meredith,1
-Lauren,4
-Party guests,8
-Magician,5
-Ravi,4
-Robert & Creed,1
-Wrangler,2
-Senator,5
-Vet,5
-Harry,4
-Mr. Ramish,2
-Calvin,0
-Off-camera,1
-Rafe,1
-Fake Jim,6
-Voicemail,1
-Nellie and Pam,2
-Group: Dunder Mifflin!
-Andy: Andy Bernard presents: Summer Softball Epic Fails! [Kevin swings bat on screen, fart noise follows] Fail. [repeats] Fail,1
+rory,3
+deagnelo,9
+jordan,1
+dwight [on phone],2
+mose [on phone],1
+all but oscar,1
+fred henry,7
+fred,3
+warren buffett,1
+warren,5
+robert california,6
+merv bronte,4
+merv,6
+nellie bertram,2
+nellie,4
+finger lakes guy,21
+pam as fourth-biggest client,4
+pam as ninth-biggest client,4
+tattoo artist,2
+female applicant,1
+male applicant 1,2
+male applicant 2,2
+gideon,7
+bruce,0
+ erin,20
+walter,2
+ellen,1
+walter jr,4
+erin's cell phone,2
+bert,2
+val,1
+warehouse crew,0
+cathy,2
+offscreen,2
+curtis,5
+drummer,2
+old man,1
+park ranger,1
+chelsea,4
+archivist,3
+narrator,10
+soldier,10
+amanda,38
+susan,2
+bob's secretary,3
+mrs. california,1
+host,7
+queerenstein bears,1
+oscar's friend,1
+stu,2
+stonewall host,9
+einsteins,1
+senator lipton,2
+ernesto,3
+officer foley,6
+saleswoman,0
+emergency operator,4
+paramedic,1
+donna muraski,4
+wally amos,3
+brandon,2
+blogger,1
+blogger 2,5
+lady blogger,3
+patty,0
+elderly woman,2
+irene,3
+alonzo,6
+glenn,2
+lauren,4
+party guests,8
+magician,5
+ravi,4
+wrangler,2
+senator,5
+vet,5
+harry,4
+mr. ramish,2
+calvin,0
+off-camera,1
+rafe,1
+fake jim,6
+voicemail,1
+group: dunder mifflin!
+andy: andy bernard presents: summer softball epic fails! [kevin swings bat on screen,1
+ fart noise follows] fail. [repeats] fail,1
 [repeats]
-Andy: Fail,1
-[Clark and Pete are shown on screen]
-Video Andy: Hey, I'm Pete, puberty is such a drag, man. And I'm Clark! I like to eat toilet paper. [Clark and Pete wave at camera] We fail! [Video shows memorial of Jerry,1
-Phyllis, Kevin & Stanley,5
-HCT,1
-HCT Member #1,1
-HCT Member #2,5
-Broccoli Rob,6
-Businessman #1,1
-Businessman #2,5
-Businessman #3,2
-HCT Member #3,3
-White,3
-Boat Guy,2
-Walt Jr.,4
-Senator Liptop,6
-Guys in breakroom,1
-Business partner,3
-Molly,4
-Colin,2
-Trevor,2
-Julius Irving,5
-New Instant Message,11
-Suit Store Father,3
-Athlead Employee,4
-Dennis,2
-Wade,0
-Suit Store Son,2
-Female Athlead Employee,4
-3rd Athlead Employee,3
-4th Athlead Employee,4
-Co-worker,5
-Co-worker #2,2
-Mr. Romanko,0
-Dance Teacher,4
-Ballerinas,0
-Parent in Audience,0
-Parent in audience #2,1
-Parent in audience #1,1
-Investor,2
-Lonnie,3
-Fast Food Worker,1
-Drive Thru Customer,6
-Brian,2
-Cameraman,1
-Rolf,3
-Gabor,8
-Zeke,3
-Melvina,4
-Wolf,2
-Sensei Ira,0
-Pam & Dwight,1
-Frank,4
-Party Announcer,7
-Party Guest,1
-Party Photographer,6
-Party Waiter,1
-Nail stylist 1,9
-Nail stylist 2,2
-Nail manager,8
-Shirley,2
-Athlead Coworker,4
-Roger,1
-Alice,3
-Oscar's Computer,8
-Jeb,5
-German Minister,5
-Fannie,4
-Henry,8
-Esther,4
-Aunt Shirley,9
-Cameron,2
-Promo Voice,25
-Ryan Howard,5
-Mr. Ruger,3
-Promo Announcer,2
-Ruger Sister 1,3
-Salesmen,5
-Ruger Sister 2,2
-Angela & Oscar,1
-Reporter #1,5
-Reporter #2,3
-Mrs. Davis,2
-Phillip,1
-Carla Fern,5
-Director,2
-Producer,2
-Bob Vance, Vance Refrigeration,1
-Production Assistant,6
-Sensei,4
-Philip,1
-Check-in guy,2
-Casey,2
-Mark McGrath,10
-Jim & Dwight,1
-Camera Crew,1
-People in line,1
-Santigold,2
-Aaron Rodgers,3
-Clay Aiken,2
-CameraMan,2
-Malcolm,3
-Casey Dean,2
-Bill Hader,3
-Seth Mayers,5
-Dakota,2
-Stripper,3
-Jakey,2
-Man 1,4
-Woman 1,14
-Woman 2,2
-Man 2,2
-Moderator,14
-Man 3,6
-Woman 3,4
-Woman 4,7
-Joan,3
-Minister,7
-Carol Stills,1
+andy: fail,1
+[clark,1
+pete are shown on screen]
+video andy: hey,1
+ i'm pete,1
+ puberty is such a drag,1
+ man. and i'm clark! i like to eat toilet paper. [clark,1
+pete wave at camera] we fail! [video shows memorial of jerry,1
+hct,1
+hct member #1,1
+hct member #2,5
+broccoli rob,6
+businessman #1,1
+businessman #2,5
+businessman #3,2
+hct member #3,3
+white,3
+boat guy,2
+walt jr.,4
+senator liptop,6
+guys in breakroom,1
+business partner,3
+molly,4
+colin,2
+trevor,2
+julius irving,5
+new instant message,11
+suit store father,3
+athlead employee,4
+dennis,2
+wade,0
+suit store son,2
+female athlead employee,4
+3rd athlead employee,3
+4th athlead employee,4
+co-worker,5
+co-worker #2,2
+mr. romanko,0
+dance teacher,4
+ballerinas,0
+parent in audience,0
+parent in audience #2,1
+parent in audience #1,1
+investor,2
+lonnie,3
+fast food worker,1
+drive thru customer,6
+brian,2
+cameraman,2
+rolf,3
+gabor,8
+zeke,3
+melvina,4
+wolf,2
+sensei ira,0
+frank,4
+party announcer,7
+party guest,1
+party photographer,6
+party waiter,1
+nail stylist 1,9
+nail stylist 2,2
+nail manager,8
+shirley,2
+athlead coworker,4
+roger,1
+alice,3
+oscar's computer,8
+jeb,5
+german minister,5
+fannie,4
+henry,8
+esther,4
+aunt shirley,9
+cameron,2
+promo voice,25
+ryan howard,5
+mr. ruger,3
+promo announcer,2
+ruger sister 1,3
+salesmen,5
+ruger sister 2,2
+reporter #1,5
+reporter #2,3
+mrs. davis,2
+phillip,1
+carla fern,5
+director,2
+producer,2
+ vance refrigeration,1
+production assistant,6
+sensei,4
+philip,1
+check-in guy,2
+casey,2
+mark mcgrath,10
+camera crew,1
+people in line,1
+santigold,2
+aaron rodgers,3
+clay aiken,2
+malcolm,3
+casey dean,2
+bill hader,3
+seth mayers,5
+dakota,2
+stripper,3
+jakey,2
+man 1,4
+woman 1,14
+woman 2,2
+man 2,2
+moderator,14
+man 3,6
+woman 3,4
+woman 4,7
+joan,3
+minister,7
+carol stills,1
